@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Fix</string>
+
+    <string name="login_title">Auto Fix</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="link_lupa_password">Forgot Password?</string>
+    <string name="link_daftar_akun">Register Account</string>
+
+    <string name="hint_nama_lengkap">Full Name</string>
+    <string name="hint_konfirmasi_password">Confirm Password</string>
+    <string name="btn_daftar_akun">REGISTER ACCOUNT</string>
+
+    <string name="service_info_title">Service Info</string>
+    <string name="service_info_overdue">Overdue</string>
+    <string name="service_info_completed">Completed</string>
+    <string name="service_info_upcoming">Upcoming</string>
+    <string name="total_maintenance_cost">Total Maintenance\nCost</string>
+    <string name="btn_add_service">Add Service</string>
+    <string name="btn_service_history">Service History</string>
+    <string name="btn_service_reminder">Service Reminder</string>
+    <string name="home_title_default">Home</string>
+
+    <string name="title_tambah_kendaraan">Add Vehicle</string>
+    <string name="hint_nama_kendaraan">Vehicle Name (e.g., My Vario)</string>
+    <string name="hint_merek">Brand (e.g., Honda)</string>
+    <string name="hint_model">Model (e.g., Vario 150)</string>
+    <string name="hint_nomor_polisi">License Plate (e.g., B 1234 ABC)</string>
+    <string name="hint_kilometer">Last Odometer (e.g., 5000)</string>
+    <string name="btn_simpan_kendaraan">SAVE VEHICLE</string>
+
+    <string name="title_add_service">Add Service</string>
+    <string name="label_select_date">Select Date</string>
+    <string name="hint_enter_date">Enter Date</string>
+    <string name="label_service_type">Service Type</string>
+    <string name="hint_select_type">Select Type</string>
+    <string name="label_cost">Cost</string>
+    <string name="hint_enter_cost">Enter Cost</string>
+    <string name="label_notes">Notes</string>
+    <string name="hint_enter_notes">Enter Notes</string>
+
+    <string name="title_service_history">Service History</string>
+
+    <string name="title_service_reminder">Service Reminder</string>
+    <string name="title_add_reminder">Add Reminder</string>
+    <string name="label_reminder_date">Reminder Date</string>
+    <string name="hint_select_date">Select Date</string>
+    <string name="label_message">Message</string>
+    <string name="hint_reminder_message">e.g., Change oil, check brakes</string>
+    <string name="btn_save_reminder">SAVE REMINDER</string>
+
+    <string name="title_vehicle_list">My Vehicle List</string>
+    <string name="btn_add_vehicle">Add New Vehicle</string>
+
+    <string name="title_total_cost">Total Maintenance Cost</string>
+    <string name="label_total_cost_label">Total Maintenance Cost</string>
+    <string name="label_cost_breakdown">Cost Breakdown</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_edit_profile_settings">Edit Profile &amp; Settings</string>
+    <string name="title_edit_profile">Edit Profile</string>
+    <string name="label_nama_lengkap">Full Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_telepon">Phone</string>
+    <string name="btn_update">Update</string>
+    <string name="title_pengaturan">Settings</string>
+    <string name="label_notifikasi">Notifications</string>
+    <string name="label_mode_gelap">Dark Mode</string>
+    <string name="label_bahasa">Language</string>
+    <string name="label_logout">LOGOUT</string>
+    <string name="label_edit_profile_pengaturan">Edit Profile &amp; Settings</string>
+
+    <string name="title_lupa_password">Forgot Password</string>
+    <string name="label_email_lupa">Enter Your Account Email</string>
+    <string name="btn_cek_email">CHECK EMAIL</string>
+    <string name="label_password_baru_lupa">New Password</string>
+    <string name="label_konfirmasi_password_baru_lupa">Confirm New Password</string>
+    <string name="btn_reset_password">RESET PASSWORD</string>
+
+    <string-array name="cost_filters">
+        <item>This Year</item>
+        <item>This Month</item>
+        <item>Last 6 Months</item>
+        <item>All Time</item>
+    </string-array>
+</resources>

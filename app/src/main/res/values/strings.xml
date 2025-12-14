@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Fix</string>
+
+    <string name="login_title">Auto Fix</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="btn_login">MASUK</string>
+    <string name="link_lupa_password">Lupa Kata Sandi?</string>
+    <string name="link_daftar_akun">Daftar Akun</string>
+
+    <string name="hint_nama_lengkap">Nama Lengkap</string>
+    <string name="hint_konfirmasi_password">Konfirmasi Kata Sandi</string>
+    <string name="btn_daftar_akun">DAFTAR AKUN</string>
+
+    <string name="home_title_default">Beranda</string>
+    <string name="service_info_title">Info Servis</string>
+    <string name="service_info_overdue">Telat</string>
+    <string name="service_info_completed">Selesai</string>
+    <string name="service_info_upcoming">Mendatang</string>
+    <string name="total_maintenance_cost">Total Biaya\nPerawatan</string>
+    <string name="btn_add_service">Tambah Servis</string>
+    <string name="btn_service_history">Riwayat Servis</string>
+    <string name="btn_service_reminder">Pengingat Servis</string>
+
+    <string name="title_tambah_kendaraan">Tambah Kendaraan</string>
+    <string name="hint_nama_kendaraan">Nama Kendaraan (cth: Vario Saya)</string>
+    <string name="hint_merek">Merek (cth: Honda)</string>
+    <string name="hint_model">Model (cth: Vario 150)</string>
+    <string name="hint_nomor_polisi">Nomor Polisi (cth: B 1234 ABC)</string>
+    <string name="hint_kilometer">Kilometer Terakhir (cth: 5000)</string>
+    <string name="btn_simpan_kendaraan">SIMPAN KENDARAAN</string>
+
+    <string name="title_add_service">Tambah Servis</string>
+    <string name="label_select_date">Pilih Tanggal</string>
+    <string name="hint_enter_date">Masukkan Tanggal</string>
+    <string name="label_service_type">Jenis Servis</string>
+    <string name="hint_select_type">Pilih Jenis</string>
+    <string name="label_cost">Biaya</string>
+    <string name="hint_enter_cost">Masukkan Biaya</string>
+    <string name="label_notes">Catatan</string>
+    <string name="hint_enter_notes">Masukkan Catatan</string>
+
+    <string name="title_service_history">Riwayat Servis</string>
+
+    <string name="title_service_reminder">Pengingat Servis</string>
+    <string name="title_add_reminder">Tambah Pengingat</string>
+    <string name="label_reminder_date">Tanggal Pengingat</string>
+    <string name="hint_select_date">Pilih Tanggal</string>
+    <string name="label_message">Pesan</string>
+    <string name="hint_reminder_message">cth: Ganti oli, cek rem</string>
+    <string name="btn_save_reminder">SIMPAN PENGINGAT</string>
+
+    <string name="title_vehicle_list">Daftar Kendaraan Saya</string>
+    <string name="btn_add_vehicle">Tambah Kendaraan Baru</string>
+
+    <string name="title_total_cost">Total Biaya Perawatan</string>
+    <string name="label_total_cost_label">Total Biaya Perawatan</string>
+    <string name="label_cost_breakdown">Rincian Biaya</string>
+
+    <string name="title_profile">Profil</string>
+    <string name="label_edit_profile_pengaturan">Edit Profil &amp; Pengaturan</string>
+    <string name="label_logout">KELUAR</string>
+
+    <string name="title_edit_profile_settings">Edit Profil &amp; Pengaturan</string>
+    <string name="title_edit_profile">Edit Profil</string>
+    <string name="label_nama_lengkap">Nama Lengkap</string>
+    <string name="label_email">Email</string>
+    <string name="label_telepon">Telepon</string>
+    <string name="btn_update">Perbarui</string>
+
+    <string name="title_pengaturan">Pengaturan</string>
+    <string name="label_notifikasi">Notifikasi</string>
+    <string name="label_mode_gelap">Mode Gelap</string>
+    <string name="label_bahasa">Bahasa</string>
+
+    <string name="title_lupa_password">Lupa Kata Sandi</string>
+    <string name="label_email_lupa">Masukkan Email Akun Anda</string>
+    <string name="btn_cek_email">CEK EMAIL</string>
+    <string name="label_password_baru_lupa">Kata Sandi Baru</string>
+    <string name="label_konfirmasi_password_baru_lupa">Konfirmasi Kata Sandi Baru</string>
+    <string name="btn_reset_password">RESET KATA SANDI</string>
+
+    <string-array name="cost_filters">
+        <item>Tahun Ini</item>
+        <item>Bulan Ini</item>
+        <item>6 Bulan Terakhir</item>
+        <item>Semua Waktu</item>
+    </string-array>
+</resources>

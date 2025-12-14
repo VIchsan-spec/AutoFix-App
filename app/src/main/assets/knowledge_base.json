@@ -1,0 +1,1298 @@
+[
+  {
+    "pertanyaan": "Halo / Hai",
+    "jawaban": "Halo! Saya asisten montir Auto Fix. Ada yang bisa saya bantu soal perawatan motor?",
+    "kata_kunci": ["halo", "hai", "pagi", "siang", "sore", "malam", "hello", "hi", "test", "tes"]
+  },
+  {
+    "pertanyaan": "Siapa pembuat aplikasi ini?",
+    "jawaban": "Aplikasi Auto Fix ini dibuat oleh Kelompok 4 yaitu Ichsan as Software Engineer,Bondan as User,Hafiz as Project Manager,dan Viqi as DBA.",
+    "kata_kunci": ["siapa", "pembuat", "creator", "developer", "bikin"]
+  },
+  {
+    "pertanyaan": "Kapan ganti oli?",
+    "jawaban": "Oli motor sebaiknya diganti setiap 2.000 - 4.000 km atau 2 bulan sekali, tergantung mana yang tercapai lebih dulu.",
+    "kata_kunci": ["kapan", "ganti", "oli", "waktu", "jarak", "km", "pelumas"]
+  },
+  {
+    "pertanyaan": "Biaya ganti oli?",
+    "jawaban": "Biaya ganti oli bervariasi tergantung merek, biasanya antara Rp 40.000 hingga Rp 80.000.",
+    "kata_kunci": ["biaya", "harga", "duit", "bayar", "murah", "mahal"]
+  },
+  {
+    "pertanyaan": "Kenapa motor brebet?",
+    "jawaban": "Motor brebet biasanya disebabkan oleh busi yang kotor/rusak, filter udara mampet, atau bensin yang tercampur air.",
+    "kata_kunci": ["brebet", "tersendat", "mati", "busi", "filter", "mogok", "ndut"]
+  },
+  {
+    "pertanyaan": "Motor susah hidup pagi hari?",
+    "jawaban": "Jika susah hidup di pagi hari, coba cek choke, kondisi busi, atau aki yang mungkin sudah lemah. Panaskan motor rutin setiap hari.",
+    "kata_kunci": ["susah", "hidup", "nyala", "pagi", "dingin", "starter"]
+  },
+  {
+    "pertanyaan": "Berapa tekanan ban ideal?",
+    "jawaban": "Untuk motor matic/bebek standar, tekanan ban depan idealnya 29 psi dan belakang 33 psi. Cek seminggu sekali.",
+    "kata_kunci": ["tekanan", "ban", "angin", "psi", "kempes", "ukuran", "pompa"]
+  },
+  {
+    "pertanyaan": "Tanda kampas rem habis?",
+    "jawaban": "Tanda kampas rem habis: terdengar bunyi gesekan logam (srek-srek) saat mengerem, rem terasa dalam, atau minyak rem turun.",
+    "kata_kunci": ["kampas", "rem", "habis", "bunyi", "blong", "decit", "pakem"]
+  },
+  {
+    "pertanyaan": "Apa itu servis rutin?",
+    "jawaban": "Servis rutin meliputi pengecekan dan penggantian oli mesin, oli gardan, busi, filter udara, kampas rem, air radiator, dan kelistrikan.",
+    "kata_kunci": ["servis", "rutin", "apa", "saja", "manfaat", "tune", "up", "berkala"]
+  },
+  {
+    "pertanyaan": "Kapan ganti air radiator?",
+    "jawaban": "Air radiator (coolant) sebaiknya dikuras dan diganti setiap 10.000 - 12.000 km atau setahun sekali agar mesin tidak overheat.",
+    "kata_kunci": ["air", "radiator", "coolant", "panas", "overheat", "mendidih"]
+  },
+  {
+    "pertanyaan": "Lampu motor redup?",
+    "jawaban": "Lampu redup biasanya tanda aki mulai soak, kiprok bermasalah, atau ada kabel yang kendor/korosi.",
+    "kata_kunci": ["lampu", "redup", "gelap", "terang", "bohlam", "listrik"]
+  },
+  {
+    "pertanyaan": "Kapan ganti V-Belt motor matic?",
+    "jawaban": "V-Belt motor matic sebaiknya diperiksa setiap 8.000 km dan diganti setiap 20.000 - 24.000 km untuk mencegah putus di jalan.",
+    "kata_kunci": ["vbelt", "belt", "vanbel", "putus", "matic", "cvt"]
+  },
+  {
+    "pertanyaan": "Fungsi filter udara?",
+    "jawaban": "Filter udara menyaring debu agar tidak masuk ke ruang bakar. Jika kotor, motor jadi boros bensin dan tarikan berat. Ganti setiap 10.000 km.",
+    "kata_kunci": ["filter", "udara", "saringan", "debu", "kotor", "boros"]
+  },
+  {
+    "pertanyaan": "Motor asap putih?",
+    "jawaban": "Asap putih dari knalpot biasanya tanda oli bocor ke ruang bakar (ring seher aus atau sil klep bocor). Segera periksa ke bengkel.",
+    "kata_kunci": ["putih", "ngebul", "knalpot", "seher", "turun", "mesin"]
+  },
+  {
+    "pertanyaan": "Motor asap hitam?",
+    "jawaban": "Asap hitam biasanya tanda pembakaran tidak sempurna (terlalu banyak bensin). Cek setelan karburator atau injektor dan filter udara.",
+    "kata_kunci": ["hitam", "bensin", "boros", "karbu", "injeksi"]
+  },
+  {
+    "pertanyaan": "Rantai motor bunyi?",
+    "jawaban": "Rantai bunyi 'krak-krak' berarti kendor atau kering. Bersihkan, lumasi dengan chain lube, dan setel kekencangannya. Ganti jika gear sudah tajam.",
+    "kata_kunci": ["rantai", "bunyi", "kendor", "berisik", "gear", "gir", "lube"]
+  },
+  {
+    "pertanyaan": "Aki kering vs Aki basah?",
+    "jawaban": "Aki basah perlu isi ulang air aki rutin tapi lebih awet jika dirawat. Aki kering (MF) bebas perawatan tapi sekali rusak harus ganti baru.",
+    "kata_kunci": ["aki", "accu", "basah", "kering", "beda", "bagus", "mana"]
+  },
+  {
+    "pertanyaan": "Cara merawat cat motor?",
+    "jawaban": "Cuci motor rutin, jangan pakai deterjen pakaian, keringkan segera, dan gunakan wax/pengkilap sebulan sekali. Hindari parkir di terik matahari langsung.",
+    "kata_kunci": ["cat", "body", "kusam", "kilap", "cuci", "jamur"]
+  },
+  {
+    "pertanyaan": "Bensin Pertalite atau Pertamax?",
+    "jawaban": "Sesuaikan dengan rasio kompresi mesin. Kompresi 9-10:1 pakai Pertalite. Kompresi 10-11:1 pakai Pertamax agar mesin awet dan bertenaga.",
+    "kata_kunci": ["bensin", "bbm", "pertalite", "pertamax", "turbo", "isi", "bahan", "bakar"]
+  },
+  {
+    "pertanyaan": "Syarat perpanjang STNK?",
+    "jawaban": "Bawa KTP asli & fotokopi, STNK asli & fotokopi, dan BPKB asli & fotokopi. Datang ke Samsat atau layanan keliling.",
+    "kata_kunci": ["stnk", "pajak", "bayar", "samsat", "syarat", "dokumen", "mati"]
+  },
+  {
+    "pertanyaan": "Kapan ganti minyak rem?",
+    "jawaban": "Minyak rem sebaiknya diganti atau dikuras setiap 20.000 - 24.000 km atau setiap 2 tahun sekali agar rem tetap pakem dan tidak blong.",
+    "kata_kunci": ["minyak", "rem", "kuras", "cairan", "blong", "pakem"]
+  },
+  {
+    "pertanyaan": "Ciri-ciri shockbreaker mati?",
+    "jawaban": "Ciri shockbreaker mati: motor terasa limbung saat menikung, terdengar bunyi 'jedug' saat lewat jalan rusak, atau ada rembesan oli di batang shock.",
+    "kata_kunci": ["shock", "sok", "shockbreaker", "mati", "keras", "bocor", "limbung"]
+  },
+  {
+    "pertanyaan": "Cara menghemat bensin?",
+    "jawaban": "Untuk hemat bensin: hindari gas mendadak (stop & go), cek tekanan ban rutin, servis berkala, dan matikan mesin saat berhenti lama.",
+    "kata_kunci": ["hemat", "bensin", "irit", "bbm", "boros", "tips"]
+  },
+  {
+    "pertanyaan": "Penyebab mesin overheat?",
+    "jawaban": "Mesin overheat (kepanasan) bisa karena air radiator habis, kipas radiator mati, oli mesin kurang, atau thermostat macet.",
+    "kata_kunci": ["overheat", "panas", "mendidih", "mesin", "suhu"]
+  },
+  {
+    "pertanyaan": "Beda ban tubeless vs ban biasa?",
+    "jawaban": "Ban tubeless tidak pakai ban dalam, lebih tahan bocor saat kena paku (tidak langsung kempes). Ban biasa (tube type) pakai ban dalam, lebih empuk tapi langsung kempes jika bocor.",
+    "kata_kunci": ["ban", "tubeless", "biasa", "dalam", "beda", "bocor", "paku"]
+  },
+  {
+    "pertanyaan": "Apa itu CVT?",
+    "jawaban": "CVT (Continuously Variable Transmission) adalah sistem transmisi otomatis pada motor matic yang menggunakan belt dan roller, bukan gigi/gear manual.",
+    "kata_kunci": ["cvt", "transmisi", "matic", "otomatis", "gear", "gigi"]
+  },
+  {
+    "pertanyaan": "Tanda roller motor matic rusak?",
+    "jawaban": "Tanda roller rusak/peyang: tarikan awal getar (gredek), akselerasi lambat, atau top speed berkurang. Bunyi 'klotok-klotok' di area CVT.",
+    "kata_kunci": ["roller", "peyang", "rusak", "gredek", "getar", "cvt", "tarikan"]
+  },
+  {
+    "pertanyaan": "Fungsi sekring motor?",
+    "jawaban": "Sekring (fuse) berfungsi memutus arus listrik otomatis jika terjadi korsleting atau arus berlebih, untuk mencegah kebakaran atau kerusakan komponen elektronik.",
+    "kata_kunci": ["sekring", "fuse", "putus", "listrik", "korslet", "mati"]
+  },
+  {
+    "pertanyaan": "Tips berkendara saat hujan?",
+    "jawaban": "Saat hujan: kurangi kecepatan, hindari rem mendadak, nyalakan lampu utama, pakai jas hujan model setelan (bukan ponco), dan hindari genangan air dalam.",
+    "kata_kunci": ["hujan", "tips", "aman", "basah", "genangan", "banjir", "licin"]
+  },
+  {
+    "pertanyaan": "Kenapa knalpot nembak?",
+    "jawaban": "Knalpot nembak biasanya karena campuran bensin terlalu irit, ada kebocoran di leher knalpot, atau masalah pada sistem AIS (Air Induction System).",
+    "kata_kunci": ["knalpot", "nembak", "meledak", "bunyi", "dor", "bensin"]
+  },
+  {
+    "pertanyaan": "Kapan ganti ban motor?",
+    "jawaban": "Ganti ban jika alur/kembangannya sudah menyentuh batas TWI (segitiga penanda), ada benjolan, retak-retak, atau sudah lebih dari 3-4 tahun.",
+    "kata_kunci": ["ganti", "ban", "botak", "halus", "licin", "retak", "benjol"]
+  },
+  {
+    "pertanyaan": "Apa fungsi ECU?",
+    "jawaban": "ECU (Electronic Control Unit) adalah otak motor injeksi yang mengatur semprotan bensin, pengapian, dan campuran udara secara elektronik agar performa maksimal.",
+    "kata_kunci": ["ecu", "ecm", "otak", "injeksi", "komputer", "elektronik"]
+  },
+  {
+    "pertanyaan": "Cara merawat rantai motor?",
+    "jawaban": "Bersihkan rantai dari kotoran dengan sikat dan degreaser, lalu lumasi dengan chain lube (pelumas rantai) setiap 500 km atau setelah cuci motor/hujan.",
+    "kata_kunci": ["rantai", "lube", "pelumas", "kering", "berisik", "rawat"]
+  },
+  {
+    "pertanyaan": "Penyebab stang motor goyang?",
+    "jawaban": "Stang goyang bisa karena komstir kendor/rusak, velg peyang, ban benjol, atau bearing roda (laher) yang sudah oblak.",
+    "kata_kunci": ["stang", "goyang", "getar", "oblak", "stir", "komsir", "laher"]
+  },
+  {
+    "pertanyaan": "Fungsi oli gardan?",
+    "jawaban": "Oli gardan berfungsi melumasi gear rasio di roda belakang motor matic. Jika telat ganti, gear bisa aus dan timbul suara dengung.",
+    "kata_kunci": ["fungsi", "gear", "rasio", "matic", "belakang"]
+  },
+  {
+    "pertanyaan": "Kapan ganti oli gardan?",
+    "jawaban": "Oli gardan motor matic sebaiknya diganti setiap 8.000 km, atau setiap 2 kali ganti oli mesin (rasio 2:1).",
+    "kata_kunci": ["ganti", "oli", "gardan", "kapan", "jarak", "waktu"]
+  },
+  {
+    "pertanyaan": "Kenapa motor matic tidak kuat nanjak?",
+    "jawaban": "Motor matic tidak kuat nanjak biasanya karena kampas ganda tipis, v-belt kendor/aus, atau roller sudah peyang. Cek bagian CVT.",
+    "kata_kunci": ["nanjak", "lemah", "loyo", "kuat", "tanjakan", "gunung", "tenaga"]
+  },
+  {
+    "pertanyaan": "Bolehkah cuci motor saat mesin panas?",
+    "jawaban": "Hindari mencuci motor saat mesin masih panas. Perubahan suhu drastis bisa merusak blok mesin (retak) atau membuat leher knalpot cepat keropos.",
+    "kata_kunci": ["cuci", "panas", "mesin", "siram", "air", "boleh"]
+  },
+  {
+    "pertanyaan": "Apa itu Inrayen?",
+    "jawaban": "Inrayen (break-in) adalah masa penyesuaian komponen mesin motor baru (biasanya 500-1000 km pertama). Hindari gas pol atau beban berat berlebih.",
+    "kata_kunci": ["inrayen", "break", "in", "baru", "motor", "reyen"]
+  },
+  {
+    "pertanyaan": "Cara jumper aki motor?",
+    "jawaban": "Hubungkan kabel positif (+) aki sehat ke positif aki mogok, lalu negatif (-) ke negatif. Hidupkan motor sehat, lalu coba starter motor mogok. Lepas kabel negatif dulu setelah nyala.",
+    "kata_kunci": ["jumper", "aki", "soak", "hidupkan", "dorong", "kabel"]
+  },
+  {
+    "pertanyaan": "Apa itu turun mesin?",
+    "jawaban": "Turun mesin (overhaul) adalah proses pembongkaran total mesin untuk memeriksa, membersihkan, dan mengganti komponen dalam yang rusak parah.",
+    "kata_kunci": ["apa", "itu", "turun", "mesin", "overhaul", "bongkar"]
+  },
+  {
+    "pertanyaan": "Kenapa mesin cepat panas?",
+    "jawaban": "Mesin cepat panas bisa karena oli habis, sirkulasi oli macet, air radiator kurang, atau kipas radiator mati.",
+    "kata_kunci": ["kenapa", "mesin", "panas", "oli", "radiator", "kipas", "suhu"]
+  },
+  {
+    "pertanyaan": "Kapan harus servis besar?",
+    "jawaban": "Servis besar sebaiknya dilakukan setiap 20.000 - 25.000 km atau ketika performa mesin menurun drastis dan muncul asap putih.",
+    "kata_kunci": ["kapan", "waktu", "servis", "besar", "berat", "turun", "mesin"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara memanaskan motor?",
+    "jawaban": "Panaskan motor 1-3 menit saja sebelum dipakai. Jangan digeber terlalu tinggi. Ini agar oli bersirkulasi ke seluruh mesin.",
+    "kata_kunci": ["bagaimana", "cara", "panaskan", "pemanasan", "pagi", "hidupkan"]
+  },
+  {
+    "pertanyaan": "Siapa yang boleh bongkar mesin?",
+    "jawaban": "Sebaiknya hanya mekanik profesional yang membongkar mesin untuk menghindari kesalahan pemasangan komponen vital.",
+    "kata_kunci": ["siapa", "boleh", "bongkar", "mekanik", "bengkel", "sendiri"]
+  },
+  {
+    "pertanyaan": "Apa fungsi karburator?",
+    "jawaban": "Karburator berfungsi mencampur bensin dan udara dengan takaran yang pas sebelum masuk ke ruang bakar mesin (pada motor non-injeksi).",
+    "kata_kunci": ["apa", "fungsi", "guna", "karburator", "karbu", "bensin", "udara"]
+  },
+  {
+    "pertanyaan": "Kenapa motor boros bensin?",
+    "jawaban": "Motor boros bisa karena filter udara kotor, tekanan ban kurang, setelan karbu/injeksi tidak pas, atau gaya berkendara yang agresif.",
+    "kata_kunci": ["kenapa", "boros", "bensin", "bbm", "irit", "penyebab"]
+  },
+  {
+    "pertanyaan": "Dimana letak nomor rangka?",
+    "jawaban": "Letak nomor rangka berbeda tiap motor, biasanya ada di leher stang (komsteer) atau di bawah jok dekat tangki bensin.",
+    "kata_kunci": ["dimana", "letak", "posisi", "nomor", "rangka", "mesin", "stnk"]
+  },
+  {
+    "pertanyaan": "Apa itu bore up?",
+    "jawaban": "Bore up adalah modifikasi memperbesar diameter piston untuk meningkatkan kapasitas mesin (cc) dan tenaga motor.",
+    "kata_kunci": ["apa", "itu", "bore", "up", "modifikasi", "kencang", "cc"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara merawat motor injeksi?",
+    "jawaban": "Gunakan bensin oktan tinggi (Pertamax), rutin ganti oli, cek aki, dan bersihkan injektor setiap 10.000 km.",
+    "kata_kunci": ["bagaimana", "cara", "rawat", "tips", "injeksi", "fi", "injektor"]
+  },
+  {
+    "pertanyaan": "Apa fungsi kiprok?",
+    "jawaban": "Kiprok (Rectifier) berfungsi menstabilkan arus listrik dari spul dan mengubah arus AC menjadi DC untuk mengisi aki.",
+    "kata_kunci": ["apa", "fungsi", "kiprok", "rectifier", "listrik", "pengisian"]
+  },
+  {
+    "pertanyaan": "Kenapa lampu sering putus?",
+    "jawaban": "Lampu sering putus biasanya tanda kiprok rusak (overcharge) sehingga arus listrik ke lampu terlalu besar.",
+    "kata_kunci": ["kenapa", "lampu", "putus", "mati", "bohlam", "listrik"]
+  },
+  {
+    "pertanyaan": "Kapan ganti air aki?",
+    "jawaban": "Cek ketinggian air aki basah sebulan sekali. Isi ulang jika di bawah garis 'Lower Level'. Ganti aki jika sel sudah rusak.",
+    "kata_kunci": ["kapan", "ganti", "isi", "air", "aki", "accu", "basah"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara cek aki soak?",
+    "jawaban": "Cek aki soak: klakson sember, starter elektrik tidak kuat, atau lampu redup saat mesin mati. Gunakan voltmeter untuk hasil akurat.",
+    "kata_kunci": ["bagaimana", "cara", "cek", "periksa", "aki", "soak", "rusak", "lemah"]
+  },
+  {
+    "pertanyaan": "Apa itu CDI?",
+    "jawaban": "CDI (Capacitor Discharge Ignition) adalah komponen pengapian elektronik yang mengatur waktu percikan api busi.",
+    "kata_kunci": ["apa", "itu", "cdi", "pengapian", "api", "busi"]
+  },
+  {
+    "pertanyaan": "Kenapa starter elektrik mati?",
+    "jawaban": "Starter mati bisa karena aki lemah, tombol starter kotor, bendik starter rusak, atau arang dinamo starter habis.",
+    "kata_kunci": ["kenapa", "starter", "elektrik", "mati", "tidak", "nyala", "cetek"]
+  },
+  {
+    "pertanyaan": "Dimana sekring motor?",
+    "jawaban": "Sekring (fuse) biasanya terletak di dekat aki, di dalam kotak sekring. Cek buku manual untuk posisi pastinya.",
+    "kata_kunci": ["dimana", "posisi", "letak", "sekring", "fuse", "aki"]
+  },
+  {
+    "pertanyaan": "Kenapa klakson tidak bunyi?",
+    "jawaban": "Klakson mati bisa karena aki soak, kabel putus/kendor, tombol kotor, atau klakson itu sendiri rusak kena air.",
+    "kata_kunci": ["kenapa", "klakson", "mati", "tidak", "bunyi", "suara"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara ganti bohlam depan?",
+    "jawaban": "Buka batok lampu dengan obeng, lepas soket lampu, buka karet penutup dan kawat pengait, lalu ganti bohlam. Jangan sentuh kaca bohlam baru.",
+    "kata_kunci": ["bagaimana", "cara", "ganti", "pasang", "bohlam", "lampu", "depan"]
+  },
+  {
+    "pertanyaan": "Apa arti kode ban?",
+    "jawaban": "Kode ban (misal 90/80-14) menunjukkan lebar ban (90mm), tinggi ban (80% dari lebar), dan diameter velg (14 inci).",
+    "kata_kunci": ["arti", "kode", "angka", "ukuran", "velg"]
+  },
+  {
+    "pertanyaan": "Kenapa rem bunyi mencicit?",
+    "jawaban": "Rem bunyi mencicit biasanya karena kampas rem kotor, kampas habis (besi ketemu besi), atau piringan cakram tidak rata.",
+    "kata_kunci": ["kenapa", "rem", "bunyi", "mencicit", "decit", "berisik"]
+  },
+  {
+    "pertanyaan": "Kapan ganti piringan cakram?",
+    "jawaban": "Ganti piringan cakram jika sudah tipis (di bawah batas toleransi), bergelombang parah, atau retak.",
+    "kata_kunci": ["kapan", "ganti", "piringan", "cakram", "disk", "brake", "tipis"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara tambal ban tubeless?",
+    "jawaban": "Cari paku, cabut paku, lubangi dengan alat reamer, masukkan karet tambal cacing dengan alat penyisip, lalu potong sisa karet.",
+    "kata_kunci": ["bagaimana", "cara", "tambal", "ban", "tubeless", "bocor", "paku"]
+  },
+  {
+    "pertanyaan": "Apa itu ABS?",
+    "jawaban": "ABS (Anti-lock Braking System) adalah fitur keamanan yang mencegah roda terkunci saat pengereman mendadak agar motor tidak selip.",
+    "kata_kunci": ["apa", "itu", "abs", "rem", "anti", "lock", "selip"]
+  },
+  {
+    "pertanyaan": "Kenapa setang goyang?",
+    "jawaban": "Setang goyang bisa karena komstir kendor, velg peyang, ban benjol, bearing roda oblak, atau shockbreaker depan mati sebelah.",
+    "kata_kunci": ["kenapa", "setang", "stang", "goyang", "getar", "tidak", "stabil"]
+  },
+  {
+    "pertanyaan": "Bagaimana merawat velg jari-jari?",
+    "jawaban": "Jaga kebersihan, segera keringkan setelah hujan agar tidak karat, dan setel ulang jari-jari (stel velg) jika mulai oleng.",
+    "kata_kunci": ["bagaimana", "cara", "rawat", "velg", "jari", "ruji", "karat"]
+  },
+  {
+    "pertanyaan": "Apa fungsi pentil ban?",
+    "jawaban": "Pentil ban berfungsi sebagai pintu masuk dan keluarnya angin, serta menahan tekanan angin agar tidak keluar dari ban.",
+    "kata_kunci": ["apa", "fungsi", "pentil", "tutup", "ban", "angin"]
+  },
+  {
+    "pertanyaan": "Kenapa ban habis sebelah?",
+    "jawaban": "Ban habis tidak rata biasanya karena shockbreaker mati sebelah, tekanan angin tidak pas, atau chassis/rangka motor miring.",
+    "kata_kunci": ["kenapa", "ban", "habis", "sebelah", "tidak", "rata", "botak"]
+  },
+  {
+    "pertanyaan": "Apa fungsi standar tengah?",
+    "jawaban": "Standar tengah menjaga motor tetap tegak lurus, berguna saat parkir lama, ganti oli, cuci motor, atau perbaikan roda.",
+    "kata_kunci": ["apa", "fungsi", "guna", "standar", "tengah", "dua", "parkir"]
+  },
+  {
+    "pertanyaan": "Kenapa cat motor pudar?",
+    "jawaban": "Cat pudar disebabkan oleh paparan sinar UV matahari terus-menerus, air hujan (asam) yang tidak dibilas, atau penggunaan sabun cuci yang keras.",
+    "kata_kunci": ["kenapa", "cat", "pudar", "kusam", "warna", "body"]
+  },
+  {
+    "pertanyaan": "Kapan waktu terbaik cuci motor?",
+    "jawaban": "Waktu terbaik adalah pagi atau sore hari saat matahari tidak terik dan mesin motor sudah dalam kondisi dingin.",
+    "kata_kunci": ["kapan", "waktu", "cuci", "motor", "bersih", "siram"]
+  },
+  {
+    "pertanyaan": "Bagaimana hilangkan baret halus?",
+    "jawaban": "Baret halus bisa disamarkan menggunakan kompon (rubbing compound) atau cairan pemoles (scratch remover) dengan kain microfiber.",
+    "kata_kunci": ["bagaimana", "baret", "gores", "halus", "kompon", "poles"]
+  },
+  {
+    "pertanyaan": "Apa itu coating motor?",
+    "jawaban": "Coating adalah lapisan pelindung tambahan (biasanya nano ceramic) di atas cat motor agar lebih kilap dan tahan goresan ringan.",
+    "kata_kunci": ["coating", "nano", "ceramic", "pelindung", "kilap", "cat"]
+  },
+  {
+    "pertanyaan": "Kenapa jok motor keras?",
+    "jawaban": "Jok keras biasanya karena busa jok sudah tua dan kempes, atau kulit jok sudah kaku karena sering terpapar panas matahari.",
+    "kata_kunci": ["kenapa", "jok", "keras", "sakit", "busa", "kulit", "duduk"]
+  },
+  {
+    "pertanyaan": "Bagaimana membersihkan spion buram?",
+    "jawaban": "Bersihkan kaca spion dengan pembersih kaca atau pasta gigi, gosok perlahan lalu bilas. Jika jamur kaca parah, gunakan glass scrub.",
+    "kata_kunci": ["bagaimana", "cara", "bersih", "spion", "kaca", "buram", "jamur"]
+  },
+  {
+    "pertanyaan": "Kapan ganti kaca spion?",
+    "jawaban": "Ganti spion jika kaca pecah, retak, tangkai patah, atau drat baut sudah dol sehingga spion tidak bisa dikencangkan.",
+    "kata_kunci": ["kapan", "ganti", "spion", "kaca", "rusak", "pecah"]
+  },
+  {
+    "pertanyaan": "Apa fungsi spakbor?",
+    "jawaban": "Spakbor berfungsi melindungi pengendara dan mesin dari cipratan air, lumpur, dan kotoran dari putaran roda.",
+    "kata_kunci": ["apa", "fungsi", "spakbor", "selebor", "cipratan", "air"]
+  },
+  {
+    "pertanyaan": "Kenapa kunci kontak macet?",
+    "jawaban": "Kunci kontak macet bisa karena kotoran/debu di dalam lubang, kunci bengkok, atau mekanisme silinder kunci yang sudah aus.",
+    "kata_kunci": ["kenapa", "kunci", "kontak", "macet", "seret", "tidak", "putar"]
+  },
+  {
+    "pertanyaan": "Apa itu STNK mati pajak?",
+    "jawaban": "STNK mati pajak artinya pemilik belum membayar Pajak Kendaraan Bermotor (PKB) tahunan. Jika dibiarkan, data kendaraan bisa dihapus.",
+    "kata_kunci": ["apa", "stnk", "mati", "pajak", "pkb", "bayar", "telat"]
+  },
+  {
+    "pertanyaan": "Kenapa wajib helm SNI?",
+    "jawaban": "Helm SNI wajib karena sudah lulus uji standar keselamatan Indonesia untuk melindungi kepala dari benturan fatal saat kecelakaan.",
+    "kata_kunci": ["kenapa", "wajib", "helm", "sni", "standar", "kepala", "aman"]
+  },
+  {
+    "pertanyaan": "Kapan bayar pajak motor?",
+    "jawaban": "Pajak motor dibayar setiap tahun sesuai tanggal yang tertera di lembar STNK. Plat nomor (kaleng) diganti setiap 5 tahun.",
+    "kata_kunci": ["kapan", "bayar", "pajak", "stnk", "tahunan", "plat", "kaleng"]
+  },
+  {
+    "pertanyaan": "Bagaimana urus SIM hilang?",
+    "jawaban": "Lapor polisi untuk surat kehilangan, bawa KTP dan surat kesehatan ke Satpas, lalu ikuti prosedur cetak ulang SIM (tidak perlu tes ulang jika data ada).",
+    "kata_kunci": ["bagaimana", "urus", "sim", "hilang", "polisi", "satpas"]
+  },
+  {
+    "pertanyaan": "Apa sanksi telat pajak?",
+    "jawaban": "Sanksi telat pajak adalah denda administrasi. Jika tertangkap razia, bisa ditilang. Jika telat 2 tahun setelah plat mati, motor jadi bodong.",
+    "kata_kunci": ["sanksi", "denda", "hukuman", "telat", "pajak", "bodong"]
+  },
+  {
+    "pertanyaan": "Kenapa spion wajib dua?",
+    "jawaban": "Dua spion memberikan pandangan luas ke area belakang kiri dan kanan (blind spot) untuk keamanan saat bermanuver atau pindah jalur.",
+    "kata_kunci": ["spion", "dua", "aturan", "kiri", "kanan", "wajib"]
+  },
+  {
+    "pertanyaan": "Bagaimana cara Eco Riding?",
+    "jawaban": "Eco Riding: buka gas perlahan, jaga kecepatan konstan (40-60 km/jam), hindari rem mendadak, dan matikan mesin di lampu merah lama.",
+    "kata_kunci": ["bagaimana", "cara", "eco", "riding", "hemat", "berkendara", "irit"]
+  },
+  {
+    "pertanyaan": "Apa itu blind spot?",
+    "jawaban": "Blind spot (titik buta) adalah area di sekitar kendaraan yang tidak terlihat oleh mata pengemudi maupun lewat kaca spion.",
+    "kata_kunci": ["apa", "itu", "blind", "spot", "titik", "buta", "bahaya"]
+  },
+  {
+    "pertanyaan": "Kenapa dilarang main HP?",
+    "jawaban": "Main HP saat berkendara memecah konsentrasi, memperlambat refleks pengereman, dan meningkatkan risiko kecelakaan fatal.",
+    "kata_kunci": ["kenapa", "larang", "hp", "ponsel", "telepon", "chat", "bahaya"]
+  },
+  {
+    "pertanyaan": "Bagaimana pengereman darurat?",
+    "jawaban": "Tutup gas, gunakan rem depan dan belakang bersamaan (porsi depan lebih besar), jangan mengunci roda, dan jaga keseimbangan tubuh.",
+    "kata_kunci": ["bagaimana", "cara", "rem", "darurat", "mendadak", "berhenti", "aman"]
+  },
+  {
+    "pertanyaan": "Dimana beli suku cadang asli?",
+    "jawaban": "Suku cadang asli sebaiknya dibeli di bengkel resmi (AHASS, Yamaha, dll) atau toko sparepart terpercaya untuk menjamin kualitas.",
+    "kata_kunci": ["dimana", "beli", "suku", "cadang", "sparepart", "asli", "ori"]
+  },
+  {
+    "pertanyaan": "Berapa harga bensin Pertalite?",
+    "jawaban": "Harga eceran resmi Pertalite rata-rata adalah Rp 10.000 per liter (Harga bisa berubah sesuai kebijakan pemerintah).",
+    "kata_kunci": ["harga", "bensin", "pertalite", "liter", "biaya"]
+  },
+  {
+    "pertanyaan": "Berapa harga bensin Pertamax?",
+    "jawaban": "Harga Pertamax berkisar antara Rp 13.000 hingga Rp 14.000 per liter, tergantung wilayah dan penyesuaian harga berkala.",
+    "kata_kunci": ["pertamax", "92", "harga", "liter", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga oli motor matic standar?",
+    "jawaban": "Harga oli mesin motor matic standar (0.8 Liter) rata-rata berkisar Rp 45.000 hingga Rp 65.000 per botol.",
+    "kata_kunci": ["oli", "matic", "standar", "mesin", "harga"]
+  },
+  {
+    "pertanyaan": "Harga oli motor sport/kopling?",
+    "jawaban": "Oli untuk motor sport atau kopling (1 Liter) biasanya lebih mahal, rata-rata Rp 60.000 hingga Rp 150.000 tergantung merek (Sintetik/Mineral).",
+    "kata_kunci": ["oli", "sport", "kopling", "vixion", "cb", "sintetik", "mahal"]
+  },
+  {
+    "pertanyaan": "Berapa harga busi motor?",
+    "jawaban": "Harga busi standar rata-rata Rp 15.000 - Rp 25.000. Untuk busi Iridium (racing/awet) harganya bisa Rp 90.000 ke atas.",
+    "kata_kunci": ["harga", "busi", "spark", "plug", "standar", "iridium", "racing"]
+  },
+  {
+    "pertanyaan": "Harga kampas rem cakram (depan)?",
+    "jawaban": "Kampas rem cakram depan (dispad) rata-rata harganya Rp 35.000 hingga Rp 75.000 tergantung original atau aftermarket.",
+    "kata_kunci": ["kampas", "rem", "cakram", "depan", "dispad", "harga"]
+  },
+  {
+    "pertanyaan": "Harga lampu depan motor?",
+    "jawaban": "Bohlam depan standar (halogen) sekitar Rp 25.000 - Rp 40.000. Jika lampu LED bawaan pabrik, harganya bisa Rp 200.000 hingga Rp 500.000 (karena menyatu dengan reflektor).",
+    "kata_kunci": ["lampu", "depan", "bohlam", "led", "cahaya", "harga"]
+  },
+  {
+    "pertanyaan": "Biaya ganti ban tubeless?",
+    "jawaban": "Harga ban tubeless ring 14 (standar matic) rata-rata Rp 170.000 - Rp 280.000 per ban, belum termasuk jasa pasang.",
+    "kata_kunci": ["harga", "ban", "tubeless", "luar", "ganti", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga ban dalam motor?",
+    "jawaban": "Harga ban dalam motor rata-rata Rp 35.000 hingga Rp 50.000 per buah.",
+    "kata_kunci": ["harga", "ban", "dalam", "biasa", "tube"]
+  },
+  {
+    "pertanyaan": "Berapa harga aki motor?",
+    "jawaban": "Aki kering (Maintenance Free) rata-rata Rp 200.000 - Rp 350.000. Aki basah sedikit lebih murah, sekitar Rp 150.000 - Rp 200.000.",
+    "kata_kunci": ["harga", "aki", "accu", "kering", "basah", "baterai"]
+  },
+  {
+    "pertanyaan": "Harga V-Belt motor matic?",
+    "jawaban": "Harga V-Belt saja sekitar Rp 80.000 - Rp 120.000. Jika paket lengkap dengan Roller, harganya sekitar Rp 180.000 - Rp 250.000.",
+    "kata_kunci": ["harga", "vbelt", "belt", "vanbel", "roller", "paket", "cvt"]
+  },
+  {
+    "pertanyaan": "Harga filter udara?",
+    "jawaban": "Filter udara orisinil rata-rata harganya Rp 40.000 hingga Rp 65.000.",
+    "kata_kunci": ["harga", "filter", "udara", "saringan", "air", "cleaner"]
+  },
+  {
+    "pertanyaan": "Berapa harga gear set (rantai)?",
+    "jawaban": "Paket Gear Set (Rantai + Gir Depan Belakang) rata-rata Rp 150.000 hingga Rp 350.000 tergantung jenis motor (Bebek vs Sport).",
+    "kata_kunci": ["harga", "gear", "set", "rantai", "gir", "paket"]
+  },
+  {
+    "pertanyaan": "Harga lampu depan motor?",
+    "jawaban": "Bohlam depan standar (halogen) sekitar Rp 25.000 - Rp 40.000. Jika lampu LED bawaan pabrik, harganya bisa Rp 200.000 hingga Rp 500.000 (karena menyatu dengan reflektor).",
+    "kata_kunci": ["lampu", "depan", "bohlam", "led", "cahaya", "harga"]
+  },
+  {
+    "pertanyaan": "Biaya jasa servis ringan?",
+    "jawaban": "Jasa servis ringan (tune up) di bengkel umum rata-rata Rp 35.000 - Rp 50.000. Di bengkel resmi sekitar Rp 60.000 - Rp 100.000.",
+    "kata_kunci": ["biaya", "jasa", "servis", "ringan", "tune", "up", "ongkos"]
+  },
+  {
+    "pertanyaan": "Biaya tambal ban?",
+    "jawaban": "Tambal ban tubeless (metode tusuk) rata-rata Rp 15.000 - Rp 20.000 per lubang. Tambal ban dalam (pres) sekitar Rp 10.000 - Rp 15.000.",
+    "kata_kunci": ["biaya", "harga", "tambal", "ban", "bocor", "tubeless"]
+  },
+  {
+    "pertanyaan": "Harga minyak rem?",
+    "jawaban": "Minyak rem (Brake Fluid) botol kecil rata-rata Rp 10.000 hingga Rp 25.000.",
+    "kata_kunci": ["harga", "minyak", "rem", "cairan", "dot3", "dot4"]
+  },
+  {
+    "pertanyaan": "Harga air radiator (coolant)?",
+    "jawaban": "Air radiator (Coolant) botol 1 liter rata-rata harganya Rp 25.000 hingga Rp 50.000.",
+    "kata_kunci": ["harga", "air", "radiator", "coolant", "pendingin"]
+  },
+  {
+    "pertanyaan": "Biaya ganti komstir?",
+    "jawaban": "Harga sparepart komstir sekitar Rp 150.000 - Rp 300.000. Jasa pasangnya cukup mahal karena bongkar stang, rata-rata Rp 70.000 - Rp 150.000.",
+    "kata_kunci": ["biaya", "harga", "ganti", "komstir", "stang", "berat"]
+  },
+  {
+    "pertanyaan": "Harga shockbreaker belakang?",
+    "jawaban": "Shockbreaker belakang standar (per set/pasang) rata-rata Rp 300.000 - Rp 600.000. Untuk matic (single shock) sekitar Rp 150.000 - Rp 350.000.",
+    "kata_kunci": ["harga", "shock", "shockbreaker", "sok", "belakang", "suspensi"]
+  },
+  {
+    "pertanyaan": "Apa fungsi lampu hazard?",
+    "jawaban": "Lampu hazard berfungsi sebagai isyarat tanda bahaya saat motor mogok atau berhenti darurat di pinggir jalan. Jangan gunakan saat hujan atau konvoi.",
+    "kata_kunci": ["hazard", "lampu", "darurat", "segitiga", "kedip", "bahaya"]
+  },
+  {
+    "pertanyaan": "Apa itu engine brake?",
+    "jawaban": "Engine brake adalah teknik memperlambat laju motor dengan menurunkan gas atau gigi (pada motor manual), memanfaatkan putaran mesin untuk menahan roda.",
+    "kata_kunci": ["engine", "brake", "rem", "mesin", "turun", "gas", "gigi"]
+  },
+  {
+    "pertanyaan": "Beda velg CW dan SW?",
+    "jawaban": "Velg CW (Cast Wheel/Racing) lebih stabil untuk tubeless dan mudah dibersihkan. Velg SW (Spoke Wheel/Jari-jari) lebih lentur meredam guncangan jalan rusak.",
+    "kata_kunci": ["velg", "cw", "sw", "racing", "jari", "beda", "roda"]
+  },
+  {
+    "pertanyaan": "Kenapa motor matic gredek?",
+    "jawaban": "Motor matic gredek saat tarikan awal biasanya karena kotoran menumpuk di mangkok kampas ganda atau kampas ganda sudah tipis/aus.",
+    "kata_kunci": ["gredek", "getar", "matic", "awal", "tarikan", "kampas", "ganda"]
+  },
+  {
+    "pertanyaan": "Apa fungsi choke?",
+    "jawaban": "Choke berfungsi menutup aliran udara ke karburator agar campuran bensin lebih kaya, memudahkan mesin menyala saat kondisi dingin.",
+    "kata_kunci": ["choke", "cuk", "dingin", "pagi", "susah", "hidup", "karbu"]
+  },
+  {
+    "pertanyaan": "Bahaya aquaplaning?",
+    "jawaban": "Aquaplaning adalah kondisi ban kehilangan cengkeraman (mengambang) saat melewati genangan air dalam kecepatan tinggi, menyebabkan motor tergelincir.",
+    "kata_kunci": ["aquaplaning", "air", "genangan", "licin", "selip", "hujan", "bahaya"]
+  },
+  {
+    "pertanyaan": "Kenapa knalpot keluar air?",
+    "jawaban": "Knalpot keluar air saat dipanaskan pagi hari adalah hal normal, menandakan pembakaran mesin sempurna dan adanya kondensasi udara dingin.",
+    "kata_kunci": ["knalpot", "air", "keluar", "netes", "pagi", "basah", "normal"]
+  },
+  {
+    "pertanyaan": "Apa fungsi alur ban?",
+    "jawaban": "Alur atau kembangan ban berfungsi memecah dan membuang air saat jalan basah agar ban tetap menapak ke aspal dan tidak selip.",
+    "kata_kunci": ["alur", "ban", "kembang", "motif", "fungsi", "air", "hujan"]
+  },
+  {
+    "pertanyaan": "Kapan ganti selang rem?",
+    "jawaban": "Selang rem sebaiknya diganti setiap 4 tahun atau jika sudah terlihat retak-retak, kaku, atau ada rembesan minyak untuk mencegah rem blong.",
+    "kata_kunci": ["selang", "rem", "kapan", "ganti", "bocor", "kaku", "retak"]
+  },
+  {
+    "pertanyaan": "Apa itu CC motor?",
+    "jawaban": "CC (Cubicle Centimeter) adalah volume ruang bakar mesin. Semakin besar CC, biasanya semakin besar tenaga dan konsumsi bensinnya.",
+    "kata_kunci": ["cc", "kapasitas", "mesin", "volume", "tenaga", "arti", "singkatan"]
+  },
+  {
+    "pertanyaan": "Fungsi balancer stang?",
+    "jawaban": "Balancer (jalu) stang berfungsi meredam getaran pada setang kemudi dan melindungi tangan atau tuas rem saat motor terjatuh.",
+    "kata_kunci": ["balancer", "jalu", "stang", "setang", "getar", "berat", "ujung"]
+  },
+  {
+    "pertanyaan": "Beda oli mineral dan sintetik?",
+    "jawaban": "Oli mineral dari minyak bumi murni, lebih murah tapi cepat panas. Oli sintetik buatan pabrik, lebih tahan panas, awet, dan performa stabil.",
+    "kata_kunci": ["oli", "mineral", "sintetik", "beda", "bagus", "mana", "jenis"]
+  },
+  {
+    "pertanyaan": "Tanda komstir rusak?",
+    "jawaban": "Komstir rusak ditandai dengan setang terasa berat saat belok, ada bunyi 'cetok' saat rem mendadak, atau setang goyang di kecepatan tinggi.",
+    "kata_kunci": ["komstir", "stang", "berat", "kaku", "bunyi", "cetok", "rusak"]
+  },
+  {
+    "pertanyaan": "Apa itu piston?",
+    "jawaban": "Piston (seher) adalah komponen yang bergerak naik-turun di dalam silinder untuk memadatkan campuran bensin dan menerima ledakan tenaga.",
+    "kata_kunci": ["piston", "seher", "mesin", "fungsi", "gerak", "bakar"]
+  },
+  {
+    "pertanyaan": "Cara melewati polisi tidur?",
+    "jawaban": "Kurangi kecepatan sebelum polisi tidur, lepas rem saat roda depan akan naik, dan gas perlahan setelah roda belakang lewat.",
+    "kata_kunci": ["polisi", "tidur", "tanggul", "lewat", "cara", "aman", "guncang"]
+  },
+  {
+    "pertanyaan": "Kenapa lampu sein kedip cepat?",
+    "jawaban": "Lampu sein berkedip cepat biasanya tanda salah satu bohlam sein putus, atau penggunaan bohlam dengan watt yang tidak sesuai standar.",
+    "kata_kunci": ["sein", "riting", "kedip", "cepat", "rusak", "putus", "bohlam"]
+  },
+  {
+    "pertanyaan": "Apa fungsi kampas ganda?",
+    "jawaban": "Kampas ganda pada motor matic berfungsi menyalurkan tenaga putar dari mesin ke roda belakang saat gas ditarik (gaya sentrifugal).",
+    "kata_kunci": ["kampas", "ganda", "kopling", "matic", "fungsi", "tenaga", "salur"]
+  },
+  {
+    "pertanyaan": "Kapan ganti air radiator?",
+    "jawaban": "Air radiator (coolant) sebaiknya dikuras total dan diganti setiap 10.000 - 12.000 km atau minimal setahun sekali.",
+    "kata_kunci": ["air", "radiator", "coolant", "kuras", "ganti", "kapan", "panas"]
+  },
+  {
+    "pertanyaan": "Apa itu noken as?",
+    "jawaban": "Noken as (Camshaft) berfungsi mengatur waktu buka-tutup klep masuk (bensin) dan klep buang (asap) sesuai putaran mesin.",
+    "kata_kunci": ["noken", "as", "camshaft", "kem", "klep", "atur", "buka"]
+  },
+  {
+    "pertanyaan": "Penyebab motor asap hitam?",
+    "jawaban": "Asap hitam berarti pembakaran terlalu kaya (kebanyakan bensin). Cek filter udara yang mampet atau setelan karburator/injektor yang error.",
+    "kata_kunci": ["hitam", "knalpot", "bensin", "boros", "karbu", "injektor"]
+  },
+  {
+    "pertanyaan": "Penyebab motor asap putih?",
+    "jawaban": "Asap putih tebal berarti ada oli yang ikut terbakar di ruang mesin. Kemungkinan ring piston aus, sil klep bocor, atau blok baret.",
+    "kata_kunci": ["putih", "oli", "ring", "klep", "blok", "bakar"]
+  },
+  {
+    "pertanyaan": "Apa fungsi spion?",
+    "jawaban": "Spion berfungsi untuk melihat kondisi lalu lintas di belakang dan samping motor tanpa perlu menoleh ke belakang, demi keselamatan.",
+    "kata_kunci": ["spion", "kaca", "belakang", "lihat", "fungsi", "aman", "safety"]
+  },
+  {
+    "pertanyaan": "Cara merawat cat doff?",
+    "jawaban": "Cat doff (matte) jangan dipoles dengan wax biasa karena akan jadi mengkilap. Gunakan cairan khusus 'matte detailer' dan sabun pH netral.",
+    "kata_kunci": ["cat", "doff", "matte", "kasar", "rawat", "cuci", "poles"]
+  },
+  {
+    "pertanyaan": "Kenapa motor matic lemot?",
+    "jawaban": "Motor matic lemot bisa karena filter udara kotor, v-belt mau putus, roller sudah peyang, atau kampas ganda habis.",
+    "kata_kunci": ["lemot", "lambat", "tarikan", "berat", "matic", "loyo", "tenaga"]
+  },
+  {
+    "pertanyaan": "Fungsi standar samping?",
+    "jawaban": "Standar samping untuk parkir sebentar di tempat rata. Jangan diduduki saat standar samping turun karena bisa bengkok atau merusak crankcase.",
+    "kata_kunci": ["standar", "samping", "satu", "parkir", "fungsi", "bahaya", "duduk"]
+  },
+  {
+    "pertanyaan": "Harga roller motor matic?",
+    "jawaban": "Satu set roller CVT (isi 6 butir) rata-rata harganya Rp 35.000 hingga Rp 75.000, tergantung merek dan berat gram-nya.",
+    "kata_kunci": ["harga", "roller", "cvt", "gram", "biaya", "set"]
+  },
+  {
+    "pertanyaan": "Harga kampas ganda matic?",
+    "jawaban": "Kampas ganda (kopling otomatis) motor matic berkisar antara Rp 120.000 hingga Rp 250.000 untuk yang original.",
+    "kata_kunci": ["kampas ganda", "kopling otomatis", "matic", "harga"]
+  },
+  {
+    "pertanyaan": "Harga mangkok kampas ganda?",
+    "jawaban": "Mangkok kopling (rumah kampas ganda) rata-rata harganya Rp 150.000 hingga Rp 300.000.",
+    "kata_kunci": ["mangkok", "rumah", "kopling", "ganda", "harga"]
+  },
+  {
+    "pertanyaan": "Harga kampas kopling motor sport?",
+    "jawaban": "Satu set kampas kopling untuk motor manual/sport rata-rata Rp 150.000 hingga Rp 350.000.",
+    "kata_kunci": ["kampas kopling", "manual", "sport", "harga"]
+  },
+  {
+    "pertanyaan": "Biaya servis injeksi?",
+    "jawaban": "Biaya servis atau pembersihan injektor (injector cleaner) rata-rata Rp 35.000 hingga Rp 60.000.",
+    "kata_kunci": ["biaya", "servis", "injeksi", "injektor", "cleaner", "bersih"]
+  },
+  {
+    "pertanyaan": "Harga seal shock depan?",
+    "jawaban": "Seal shockbreaker depan harganya murah, sekitar Rp 15.000 - Rp 30.000 per buah. Namun jasa pasangnya bisa Rp 40.000 - Rp 70.000.",
+    "kata_kunci": ["harga", "seal", "sil", "shock", "sok", "depan", "bocor"]
+  },
+  {
+    "pertanyaan": "Harga bearing (laher) roda?",
+    "jawaban": "Bearing atau laher roda rata-rata Rp 20.000 hingga Rp 45.000 per buah. Ganti sepasang (kiri-kanan) lebih disarankan.",
+    "kata_kunci": ["harga", "bearing", "laher", "roda", "oblak", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga spion standar?",
+    "jawaban": "Sepasang kaca spion standar rata-rata Rp 35.000 hingga Rp 80.000.",
+    "kata_kunci": ["harga", "spion", "kaca", "standar", "pasang", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga handgrip (pegangan gas)?",
+    "jawaban": "Handgrip standar atau variasi karet rata-rata harganya Rp 25.000 hingga Rp 60.000 sepasang.",
+    "kata_kunci": ["harga", "handgrip", "grip", "gas", "karet", "pegangan"]
+  },
+  {
+    "pertanyaan": "Harga handle rem?",
+    "jawaban": "Tuas atau handle rem (kiri/kanan) standar harganya sekitar Rp 25.000 hingga Rp 50.000 per buah.",
+    "kata_kunci": ["harga", "handle", "tuas", "rem", "patah", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga bohlam sein/riting?",
+    "jawaban": "Bohlam lampu sein standar (kuning) sangat murah, sekitar Rp 5.000 hingga Rp 10.000 per buah.",
+    "kata_kunci": ["bohlam sein", "riting", "kedip", "kuning", "harga"]
+  },
+  {
+    "pertanyaan": "Harga bohlam lampu rem?",
+    "jawaban": "Bohlam lampu stop/rem belakang rata-rata Rp 10.000 hingga Rp 20.000.",
+    "kata_kunci": ["bohlam rem", "stoplamp", "belakang", "harga"]
+  },
+  {
+    "pertanyaan": "Harga sekring (fuse)?",
+    "jawaban": "Sekring tancap (fuse) harganya sangat terjangkau, sekitar Rp 2.000 hingga Rp 5.000 per buah.",
+    "kata_kunci": ["harga", "sekring", "fuse", "putus", "biaya"]
+  },
+  {
+    "pertanyaan": "Biaya kuras air radiator?",
+    "jawaban": "Jasa kuras dan ganti air radiator biasanya sekitar Rp 20.000 - Rp 30.000, belum termasuk harga air coolant-nya.",
+    "kata_kunci": ["biaya", "kuras", "ganti", "air", "radiator", "jasa"]
+  },
+  {
+    "pertanyaan": "Harga piston kit?",
+    "jawaban": "Paket Piston Kit (Piston, Ring, Pin) untuk motor bebek/matic rata-rata Rp 150.000 - Rp 300.000, belum termasuk jasa korter dan pasang.",
+    "kata_kunci": ["harga", "piston", "seher", "ring", "kit", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga kabel gas?",
+    "jawaban": "Kabel gas original rata-rata Rp 40.000 hingga Rp 90.000 tergantung jenis motor (cabang satu atau dua).",
+    "kata_kunci": ["harga", "kabel", "gas", "putus", "seret", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga kabel rem?",
+    "jawaban": "Kabel rem tromol belakang rata-rata Rp 30.000 hingga Rp 60.000.",
+    "kata_kunci": ["harga", "kabel", "rem", "tali", "biaya"]
+  },
+  {
+    "pertanyaan": "Biaya press velg?",
+    "jawaban": "Jasa press velg racing yang peyang berkisar antara Rp 80.000 hingga Rp 150.000 per velg.",
+    "kata_kunci": ["biaya", "press", "velg", "peyang", "racing", "harga"]
+  },
+  {
+    "pertanyaan": "Harga piringan cakram?",
+    "jawaban": "Piringan cakram (disc brake) standar rata-rata Rp 100.000 hingga Rp 200.000.",
+    "kata_kunci": ["harga", "piringan", "cakram", "disc", "brake", "biaya"]
+  },
+  {
+    "pertanyaan": "Harga pelumas rantai (Chain Lube)?",
+    "jawaban": "Botol pelumas rantai (Chain Lube) ukuran sedang rata-rata harganya Rp 25.000 hingga Rp 45.000.",
+    "kata_kunci": ["harga", "pelumas", "rantai", "chain", "lube", "minyak"]
+  },
+  {
+    "pertanyaan": "Apa fungsi koil?",
+    "jawaban": "Koil (Ignition Coil) berfungsi melipatgandakan tegangan listrik dari aki/CDI (12V) menjadi ribuan volt untuk memicu percikan api di busi.",
+    "kata_kunci": ["fungsi", "koil", "coil", "tegangan", "pengapian"]
+  },
+  {
+    "pertanyaan": "Ciri koil lemah?",
+    "jawaban": "Ciri koil lemah: mesin susah hidup saat panas, api busi kecil/merah, motor brebet di putaran atas, atau mati mendadak.",
+    "kata_kunci": ["koil lemah", "rusak", "panas", "mati", "brebet", "api"]
+  },
+  {
+    "pertanyaan": "Apa itu spul motor?",
+    "jawaban": "Spul (Stator) adalah kumparan tembaga yang menghasilkan arus listrik AC saat mesin berputar untuk mengisi aki dan menyalakan lampu.",
+    "kata_kunci": ["spul", "stator", "kumparan", "pengisian"]
+  },
+  {
+    "pertanyaan": "Tanda spul gosong?",
+    "jawaban": "Tanda spul gosong: aki tidak mengisi (tekor), lampu utama redup atau mati total, dan tercium bau hangus dari bak mesin kiri.",
+    "kata_kunci": ["spul gosong", "rusak", "tekor", "lampu mati"]
+  },
+  {
+    "pertanyaan": "Apa fungsi thermostat?",
+    "jawaban": "Thermostat berfungsi mengatur sirkulasi air radiator. Ia menutup saat mesin dingin agar cepat panas, dan membuka saat mesin panas untuk pendinginan.",
+    "kata_kunci": ["thermostat", "suhu", "sirkulasi", "radiator", "dingin", "panas"]
+  },
+  {
+    "pertanyaan": "Apa itu O2 Sensor?",
+    "jawaban": "O2 Sensor (Oxygen Sensor) di knalpot mendeteksi sisa oksigen hasil pembakaran untuk memberi sinyal ke ECU agar mengatur campuran bensin yang pas.",
+    "kata_kunci": ["sensor oksigen", "knalpot", "ecu", "bensin"]
+  },
+  {
+    "pertanyaan": "Kapan perlu reset ECU?",
+    "jawaban": "Reset ECU diperlukan setelah servis besar, ganti aki, membersihkan throttle body, atau jika motor terasa brebet/boros agar kembali ke setelan pabrik.",
+    "kata_kunci": ["reset", "ecu", "ecm", "setting", "ulang", "injeksi", "brebet"]
+  },
+  {
+    "pertanyaan": "Apa itu porting polish?",
+    "jawaban": "Porting polish adalah modifikasi menghaluskan dan membesarkan jalur masuk/keluar bahan bakar di kepala silinder untuk memperlancar aliran udara.",
+    "kata_kunci": ["porting", "polish", "korek", "mesin", "aliran", "bensin", "modifikasi"]
+  },
+  {
+    "pertanyaan": "Apa fungsi frame slider?",
+    "jawaban": "Frame slider berfungsi melindungi body dan mesin motor dari benturan langsung ke aspal saat motor terjatuh atau tergelincir.",
+    "kata_kunci": ["frame", "slider", "pelindung", "body", "jatuh", "crash", "aksesoris"]
+  },
+  {
+    "pertanyaan": "Beda helm Full Face dan Half Face?",
+    "jawaban": "Helm Full Face melindungi seluruh kepala termasuk dagu dan rahang. Helm Half Face (Open Face) bagian dagu terbuka, perlindungan kurang maksimal.",
+    "kata_kunci": ["helm", "full", "half", "face", "beda", "aman", "kepala"]
+  },
+  {
+    "pertanyaan": "Masa kadaluarsa helm?",
+    "jawaban": "Helm sebaiknya diganti setiap 5 tahun atau setelah mengalami benturan keras, karena styrofoam (EPS) di dalamnya akan mengeras dan kehilangan daya redam.",
+    "kata_kunci": ["helm", "kadaluarsa", "ganti", "umur", "rusak", "benturan", "tahun"]
+  },
+  {
+    "pertanyaan": "Kenapa oper gigi keras?",
+    "jawaban": "Oper gigi keras bisa karena setelan kopling tidak pas, oli mesin sudah jelek/habis, kampas kopling lengket, atau as persneling bengkok.",
+    "kata_kunci": ["oper", "gigi", "keras", "susah", "pindah", "persneling", "kopling"]
+  },
+  {
+    "pertanyaan": "Penyebab miss gear?",
+    "jawaban": "Miss gear (gigi loncat/netral sendiri) biasanya karena drum shift gear aus, per penahan gear lemah, atau cara oper gigi yang kurang tegas.",
+    "kata_kunci": ["miss", "gear", "loncat", "netral", "sendiri", "gigi", "rusak"]
+  },
+  {
+    "pertanyaan": "Apa itu Slipper Clutch?",
+    "jawaban": "Slipper Clutch adalah teknologi kopling yang mencegah roda belakang terkunci/selip saat penurunan gigi (downshift) secara ekstrem.",
+    "kata_kunci": ["slipper", "clutch", "kopling", "anti", "selip", "downshift", "fitur"]
+  },
+  {
+    "pertanyaan": "Fungsi Quick Shifter?",
+    "jawaban": "Quick Shifter memungkinkan pengendara memindahkan gigi naik (upshift) tanpa perlu menarik tuas kopling atau menurunkan gas.",
+    "kata_kunci": ["quick", "shifter", "cepat", "gigi", "kopling", "balap", "fitur"]
+  },
+  {
+    "pertanyaan": "Bolehkah isi radiator pakai air biasa?",
+    "jawaban": "Tidak disarankan. Air biasa mengandung mineral yang menyebabkan karat dan kerak, serta titik didihnya lebih rendah dibanding Coolant khusus.",
+    "kata_kunci": ["isi", "radiator", "air", "biasa", "keran", "mineral", "karat"]
+  },
+  {
+    "pertanyaan": "Apa arti SAE pada oli?",
+    "jawaban": "SAE (Society of Automotive Engineers) menunjukkan tingkat kekentalan oli. Contoh: SAE 10W-40 (encer saat dingin, stabil saat panas).",
+    "kata_kunci": ["sae", "kode", "oli", "kekentalan", "arti", "10w40", "20w50"]
+  },
+  {
+    "pertanyaan": "Beda JASO MA dan MB?",
+    "jawaban": "JASO MA untuk motor kopling basah (bebek/sport) agar tidak selip. JASO MB untuk motor kopling kering (matic) agar lebih licin.",
+    "kata_kunci": ["jaso", "ma", "mb", "beda", "oli", "matic", "kopling"]
+  },
+  {
+    "pertanyaan": "Kenapa motor getar parah?",
+    "jawaban": "Getaran parah bisa dari engine mounting (karet dudukan mesin) yang pecah, baut rangka kendor, atau bandul kruk as tidak seimbang.",
+    "kata_kunci": ["getar", "parah", "body", "mesin", "mounting", "karet", "pecah"]
+  },
+  {
+    "pertanyaan": "Apa itu water hammer?",
+    "jawaban": "Water hammer adalah kerusakan fatal mesin akibat air masuk ke ruang bakar (biasanya saat banjir), menyebabkan stang seher bengkok atau patah.",
+    "kata_kunci": ["water", "hammer", "air", "banjir", "mogok", "stang", "patah"]
+  },
+  {
+    "pertanyaan": "Cara atasi motor kebanjiran?",
+    "jawaban": "Jangan nyalakan mesin! Dorong ke tempat kering, lepas busi, buang air dari knalpot, cek filter udara, dan ganti oli mesin serta gardan.",
+    "kata_kunci": ["banjir", "motor", "mogok", "atasi", "penanganan", "air", "masuk"]
+  },
+  {
+    "pertanyaan": "Bahaya ban cacing?",
+    "jawaban": "Ban cacing (ukuran sangat kecil) berbahaya karena minim cengkeraman (grip), mudah selip, velg mudah peyang, dan melanggar aturan lalu lintas.",
+    "kata_kunci": ["ban", "cacing", "kecil", "tipis", "bahaya", "alay", "selip"]
+  },
+  {
+    "pertanyaan": "Kenapa baut bisa dol?",
+    "jawaban": "Baut dol/selek terjadi karena dikencangkan terlalu kuat (overtorque), memasang miring, atau drat yang sudah karatan.",
+    "kata_kunci": ["baut", "dol", "selek", "rusak", "drat", "putar", "los"]
+  },
+  {
+    "pertanyaan": "Apa itu CBS?",
+    "jawaban": "CBS (Combi Brake System) adalah fitur di mana menekan tuas rem belakang akan otomatis mengaktifkan rem depan juga secara bersamaan.",
+    "kata_kunci": ["cbs", "combi", "brake", "rem", "gabung", "otomatis", "honda"]
+  },
+  {
+    "pertanyaan": "Fungsi jalu as roda?",
+    "jawaban": "Jalu as roda (axle slider) melindungi as roda, garpu, dan swing arm dari gesekan langsung ke aspal saat motor terjatuh.",
+    "kata_kunci": ["jalu", "as", "roda", "slider", "pelindung", "jatuh", "aksesoris"]
+  },
+  {
+    "pertanyaan": "Cara membersihkan visor helm?",
+    "jawaban": "Lepas visor, basahi air, gunakan sabun cair lembut (jangan deterjen), usap dengan tangan, bilas, dan keringkan dengan kain microfiber.",
+    "kata_kunci": ["bersih", "visor", "kaca", "helm", "buram", "baret", "cuci"]
+  },
+  {
+    "pertanyaan": "Penyebab knalpot bocor?",
+    "jawaban": "Knalpot bocor biasanya karena paking leher knalpot rusak, korosi/karat pada pipa, atau baut pegangan kendor.",
+    "kata_kunci": ["knalpot bocor", "desis", "paking", "karat"]
+  },
+  {
+    "pertanyaan": "Apa itu remapping ECU?",
+    "jawaban": "Remap ECU adalah proses memprogram ulang data di ECU standar untuk meningkatkan performa, limit rpm, atau efisiensi bensin.",
+    "kata_kunci": ["remap", "remapping", "ecu", "program", "setting", "performa"]
+  },
+  {
+    "pertanyaan": "Fungsi stabilizer stang?",
+    "jawaban": "Steering damper (stabilizer stang) mencegah setang bergetar liar (wobble) saat kecepatan tinggi atau melewati jalan tidak rata.",
+    "kata_kunci": ["stabilizer", "damper", "stang", "setang", "goyang", "wobble", "stabil"]
+  },
+  {
+    "pertanyaan": "Kapan ganti minyak shock depan?",
+    "jawaban": "Minyak shockbreaker depan sebaiknya diganti setiap 15.000 - 20.000 km agar suspensi tetap empuk dan rebound normal.",
+    "kata_kunci": ["minyak shock", "oli shock", "depan", "keras", "km"]
+  },
+  {
+    "pertanyaan": "Tanda injektor kotor?",
+    "jawaban": "Injektor kotor menyebabkan semprotan bensin tidak kabut, akibatnya motor brebet, tarikan berat, susah hidup, dan boros bensin.",
+    "kata_kunci": ["injektor kotor", "brebet", "mampet", "tarikan berat"]
+  },
+  {
+    "pertanyaan": "Apa itu kompresi mesin?",
+    "jawaban": "Kompresi adalah tekanan yang dihasilkan piston saat memadatkan campuran bensin dan udara sebelum diledakkan busi.",
+    "kata_kunci": ["kompresi", "tekanan", "piston", "udara", "bensin"]
+  },
+  {
+    "pertanyaan": "Penyebab kompresi hilang?",
+    "jawaban": "Hilang kompresi (loss compression) bisa karena ring piston aus, klep bocor/bengkok, atau paking kepala silinder jebol.",
+    "kata_kunci": ["kompresi hilang", "loss", "ring aus", "klep bocor", "paking jebol"]
+  },
+  {
+    "pertanyaan": "Fungsi filter bensin?",
+    "jawaban": "Filter bensin menyaring kotoran atau karat dari tangki agar tidak masuk ke injektor atau karburator yang bisa menyebabkannya mampet.",
+    "kata_kunci": ["filter", "bensin", "saringan", "fuel", "pump", "kotor"]
+  },
+  {
+    "pertanyaan": "Kapan ganti filter bensin?",
+    "jawaban": "Filter bensin (terutama yang di dalam tangki/injeksi) sebaiknya dicek atau diganti setiap 24.000 - 30.000 km.",
+    "kata_kunci": ["kapan", "ganti", "filter", "bensin", "fuel", "pump"]
+  },
+  {
+    "pertanyaan": "Cara cek minyak rem?",
+    "jawaban": "Lihat kaca intip di master rem (di setang). Jika cairan di bawah garis 'Lower' atau warnanya keruh/hitam, segera tambah atau ganti.",
+    "kata_kunci": ["cek", "periksa", "minyak", "rem", "master", "atas", "intip"]
+  },
+  {
+    "pertanyaan": "Apa itu kaliper rem?",
+    "jawaban": "Kaliper adalah komponen rem cakram yang berisi piston untuk menekan kampas rem agar menjepit piringan cakram.",
+    "kata_kunci": ["kaliper", "piston", "kampas", "cakram"]
+  },
+  {
+    "pertanyaan": "Penyebab rem cakram macet?",
+    "jawaban": "Rem cakram macet biasanya karena piston kaliper kotor/karatan sehingga tidak mau balik, atau pin kaliper kering.",
+    "kata_kunci": ["rem macet", "kaliper kotor", "pin kering", "piston"]
+  },
+  {
+    "pertanyaan": "Fungsi oli samping (2 tak)?",
+    "jawaban": "Pada motor 2 tak, oli samping berfungsi melumasi piston, ring, dan kruk as karena oli mesin tidak naik ke ruang bakar.",
+    "kata_kunci": ["oli", "samping", "2", "tak", "campur", "bensin", "asap"]
+  },
+  {
+    "pertanyaan": "Efek telat ganti oli samping?",
+    "jawaban": "Jika oli samping habis atau macet, piston motor 2 tak akan gancet (macet) karena gesekan kering, menyebabkan kerusakan fatal.",
+    "kata_kunci": ["telat", "habis", "oli", "samping", "jim", "gancet", "rusak"]
+  },
+  {
+    "pertanyaan": "Apa itu keyless motor?",
+    "jawaban": "Keyless (Smart Key) adalah sistem kunci kontak tanpa anak kunci fisik, menggunakan remote yang dideteksi sensor motor untuk menyala.",
+    "kata_kunci": ["keyless", "smart", "key", "kunci", "remote", "canggih", "aman"]
+  },
+  {
+    "pertanyaan": "Cara darurat remote keyless mati?",
+    "jawaban": "Jika baterai remote habis, gunakan 'Emergency Key' (kunci darurat) untuk membuka jok, atau dekatkan remote ke tombol start sesuai prosedur darurat.",
+    "kata_kunci": ["remote", "keyless", "mati", "habis", "baterai", "darurat", "id"]
+  },
+  {
+    "pertanyaan": "Kenapa speedometer mati?",
+    "jawaban": "Speedometer mati bisa karena kabel sling putus (analog), sensor kecepatan rusak (digital), atau gigi nanas di roda depan aus.",
+    "kata_kunci": ["speedometer", "spido", "mati", "jarum", "diam", "kecepatan", "km"]
+  },
+  {
+    "pertanyaan": "Fungsi pemberat di ujung stang?",
+    "jawaban": "Pemberat (bar end weight) berfungsi mengurangi getaran stang agar tangan tidak cepat kesemutan saat berkendara jauh.",
+    "kata_kunci": ["pemberat", "ujung", "stang", "jalu", "getar", "kesemutan"]
+  },
+  {
+    "pertanyaan": "Apa itu motor overheat?",
+    "jawaban": "Overheat adalah kondisi mesin terlalu panas melebihi batas normal, ditandai indikator suhu menyala, tenaga hilang, atau mesin mati mendadak.",
+    "kata_kunci": ["overheat", "panas", "mesin", "indikator", "suhu", "radiator"]
+  },
+  {
+    "pertanyaan": "Cara baca kode produksi ban?",
+    "jawaban": "Lihat 4 angka di dinding ban (misal: 2523). Dua angka awal (25) adalah minggu pembuatan, dua angka akhir (23) adalah tahun 2023.",
+    "kata_kunci": ["baca", "kode", "produksi", "ban", "tahun", "umur", "angka"]
+  },
+  {
+    "pertanyaan": "Ban motor kadaluarsa?",
+    "jawaban": "Ban tidak punya tanggal kadaluarsa pasti, tapi karetnya akan mengeras (getas) setelah 5 tahun, mengurangi daya cengkeram dan rawan pecah.",
+    "kata_kunci": ["ban", "kadaluarsa", "expired", "keras", "getas", "umur", "ganti"]
+  },
+  {
+    "pertanyaan": "Apa itu Sunmori?",
+    "jawaban": "Sunmori adalah singkatan dari 'Sunday Morning Ride', kegiatan berkendara motor santai bersama komunitas di hari Minggu pagi.",
+    "kata_kunci": ["sunmori", "minggu", "pagi", "ride", "motoran", "jalan", "santai"]
+  },
+  {
+    "pertanyaan": "Tips touring jarak jauh?",
+    "jawaban": "Cek kondisi motor total, bawa jas hujan, istirahat setiap 2 jam, pakai perlengkapan safety lengkap, dan patuhi rambu lalu lintas.",
+    "kata_kunci": ["touring", "jarak", "jauh", "tips", "persiapan", "aman", "jalan"]
+  },
+  {
+    "pertanyaan": "Fungsi idling stop system (ISS)?",
+    "jawaban": "ISS (Idling Stop System) mematikan mesin otomatis saat berhenti lebih dari 3 detik (misal di lampu merah) untuk menghemat bensin.",
+    "kata_kunci": ["iss", "idling", "stop", "system", "mati", "otomatis", "bensin"]
+  },
+  {
+    "pertanyaan": "Motor sering mati mendadak?",
+    "jawaban": "Kalau motor sering mati sendiri saat jalan pelan atau berhenti, biasanya karena setelan gas kekecilan, busi kotor, atau bensin tercampur air. Coba servis ringan dulu.",
+    "kata_kunci": ["mati", "mendadak", "sendiri", "mogok", "jalan", "pelan"]
+  },
+  {
+    "pertanyaan": "Bunyi cit-cit saat ngerem?",
+    "jawaban": "Bunyi cit-cit itu biasanya karena kampas rem kotor kena debu atau sudah tipis. Coba semprot air bersih ke sela-sela rem, kalau masih bunyi berarti waktunya ganti kampas.",
+    "kata_kunci": ["bunyi", "cit", "ngerem", "rem", "berisik", "tikus"]
+  },
+  {
+    "pertanyaan": "Kenapa motor berasa goyang?",
+    "jawaban": "Kalau motor terasa goyang atau geol-geol, coba cek tekanan ban dulu (mungkin kempes). Kalau ban aman, bisa jadi velg peyang atau laher roda sudah oblak.",
+    "kata_kunci": ["goyang", "geol", "oleng", "ban", "kempes", "jalan"]
+  },
+  {
+    "pertanyaan": "Lampu motor kurang terang?",
+    "jawaban": "Lampu redup bisa karena mika lampu sudah buram/kuning atau bohlam mau putus. Kalau ganti bohlam masih redup, mungkin aki-nya yang sudah lemah.",
+    "kata_kunci": ["lampu", "kurang", "terang", "redup", "gelap", "malam"]
+  },
+  {
+    "pertanyaan": "Motor susah distarter pagi?",
+    "jawaban": "Kalau pagi susah nyala, coba engkol (kick starter) beberapa kali tanpa kontak on biar oli naik. Kalau pakai starter tangan gak kuat, berarti aki sudah mulai soak.",
+    "kata_kunci": ["susah", "starter", "pagi", "nyala", "hidup", "engkol"]
+  },
+  {
+    "pertanyaan": "Kapan harus ganti ban?",
+    "jawaban": "Ganti ban kalau kembangannya sudah tipis/botak (lihat segitiga kecil di pinggir ban), atau kalau ban sudah sering bocor dan tambalan menumpuk.",
+    "kata_kunci": ["kapan", "ganti", "ban", "botak", "tipis", "licin", "bocor"]
+  },
+  {
+    "pertanyaan": "Apa itu servis berkala?",
+    "jawaban": "Servis berkala itu ibarat 'check-up' rutin ke dokter. Mekanik akan cek oli, rem, lampu, dan bersihkan filter biar motor gak rewel di jalan. Lakukan tiap 2-3 bulan.",
+    "kata_kunci": ["servis", "berkala", "rutin", "apa", "itu", "manfaat"]
+  },
+  {
+    "pertanyaan": "Boleh gak campur bensin?",
+    "jawaban": "Sebaiknya jangan sering gonta-ganti atau campur Pertalite dan Pertamax. Mesin jadi bingung menyesuaikan pembakaran, bikin kerak di mesin menumpuk.",
+    "kata_kunci": ["campur", "bensin", "pertalite", "pertamax", "ganti", "boleh"]
+  },
+  {
+    "pertanyaan": "Kenapa knalpot nembak-nembak?",
+    "jawaban": "Suara nembak (meletup) biasanya karena lupa tutup gas penuh saat turunan, atau ada kebocoran kecil di leher knalpot. Bukan masalah besar, tapi perlu dicek saat servis.",
+    "kata_kunci": ["knalpot", "nembak", "meletup", "dor", "suara", "ledak"]
+  },
+  {
+    "pertanyaan": "Motor matic getar saat awal jalan?",
+    "jawaban": "Itu namanya 'gredek'. Masalah khas matic karena kotoran numpuk di bagian transmisi (CVT). Tinggal minta mekanik bersihkan bagian CVT saat servis.",
+    "kata_kunci": ["getar awal", "gredek", "CVT kotor"]
+  },
+  {
+    "pertanyaan": "Apa guna panasin motor?",
+    "jawaban": "Manasin motor sebentar (1-2 menit) biar oli menyebar rata ke seluruh mesin sebelum dipakai jalan. Gak perlu lama-lama sampai mesin panas banget.",
+    "kata_kunci": ["panasin", "pemanasan", "motor", "pagi", "guna", "manfaat"]
+  },
+  {
+    "pertanyaan": "Bensin boros banget, kenapa?",
+    "jawaban": "Cek tekanan ban (kalau kempes motor jadi berat). Atau mungkin filter udara kotor jadi mesin 'sesak napas' dan butuh bensin lebih banyak.",
+    "kata_kunci": ["bensin", "boros", "cepat", "habis", "irit", "kenapa"]
+  },
+  {
+    "pertanyaan": "Perlu gak pakai bensin mahal?",
+    "jawaban": "Tergantung motornya. Cek buku manual atau stiker di tangki. Kalau diminta Pertalite, pakai Pertalite cukup. Pakai yang lebih mahal belum tentu bikin lebih kencang.",
+    "kata_kunci": ["bensin", "mahal", "pertamax", "turbo", "perlu", "bagus"]
+  },
+  {
+    "pertanyaan": "Kenapa Jok motor licin?",
+    "jawaban": "Jok licin biasanya karena sering dipoles pakai pengkilap body atau silikon. Cukup cuci pakai sabun biasa biar gak licin lagi saat ngerem.",
+    "kata_kunci": ["jok", "licin", "duduk", "pleset", "pengkilap", "Kenapa"]
+  },
+  {
+    "pertanyaan": "Spion kendor terus?",
+    "jawaban": "Kalau spion lemas dan berubah posisi sendiri, coba kencangkan baut di balik kaca spion atau di gagangnya. Kalau sudah dol (rusak), lebih baik ganti baru demi keamanan.",
+    "kata_kunci": ["spion", "kendor", "lemas", "turun", "sendiri", "goyang"]
+  },
+  {
+    "pertanyaan": "Motor habis kena banjir?",
+    "jawaban": "Jangan langsung dinyalakan! Dorong ke tempat kering, keringkan busi, dan sebaiknya ganti oli karena takutnya oli sudah tercampur air (jadi warna susu).",
+    "kata_kunci": ["banjir", "rendam", "nyala", "oli susu"]
+  },
+  {
+    "pertanyaan": "Rantai berisik krek-krek?",
+    "jawaban": "Itu tanda rantai kering atau kendor. Coba kasih pelumas rantai (chain lube). Jangan pakai oli bekas ya, nanti malah kotoran nempel semua.",
+    "kata_kunci": ["rantai", "berisik", "krek", "bunyi", "kering", "kasar"]
+  },
+  {
+    "pertanyaan": "Kunci kontak seret?",
+    "jawaban": "Jangan dipaksa, nanti patah. Semprot sedikit cairan penetran (WD-40) ke lubang kunci, lalu coba masukkan dan putar kunci pelan-pelan.",
+    "kata_kunci": ["kunci", "kontak", "seret", "susah", "masuk", "macet"]
+  },
+  {
+    "pertanyaan": "Ban sering kempes sendiri?",
+    "jawaban": "Bisa jadi ada paku halus (bocor halus) atau pentil ban yang bocor. Coba cek ke tukang tambal ban, minta periksa air sabun.",
+    "kata_kunci": ["ban", "kempes", "sendiri", "bocor", "halus", "angin"]
+  },
+  {
+    "pertanyaan": "Indikator bensin ngaco?",
+    "jawaban": "Kalau jarum bensin naik turun gak jelas, biasanya pelampung di dalam tangki bensin sudah rusak atau kotor. Perlu dicek mekanik.",
+    "kata_kunci": ["indikator", "bensin", "ngaco", "rusak", "jarum", "meteran"]
+  },
+  {
+    "pertanyaan": "Kapan ganti oli gardan matic?",
+    "jawaban": "Gampangnya: Setiap 2 kali ganti oli mesin, ganti juga oli gardannya sekali. Biar gigi di roda belakang gak rontok.",
+    "kata_kunci": ["oli", "gardan", "matic", "kapan", "ganti", "rasio"]
+  },
+  {
+    "pertanyaan": "Motor matic tidak kuat nanjak?",
+    "jawaban": "Biasanya karena v-belt sudah melar atau roller sudah peyang. Jadi tenaga mesin gak tersalur sempurna ke roda. Cek bagian CVT.",
+    "kata_kunci": ["nanjak", "gak", "kuat", "lemah", "loyo", "tanjakan"]
+  },
+  {
+    "pertanyaan": "Asap putih tipis saat pagi?",
+    "jawaban": "Kalau cuma sebentar pas dipanasi pagi-pagi, itu normal (embun/uap air). Tapi kalau asap putihnya tebal dan terus-terusan, itu tanda mesin ada yang bocor.",
+    "kata_kunci": ["asap", "putih", "pagi", "knalpot", "ngebul", "normal"]
+  },
+  {
+    "pertanyaan": "Cuci motor pakai sabun cuci piring?",
+    "jawaban": "Boleh sesekali kalau kepepet, tapi jangan keseringan. Sabun cuci piring keras dan bisa bikin cat motor jadi kusam lama-lama. Pakai sampo motor lebih aman.",
+    "kata_kunci": ["cuci", "motor", "sabun", "piring", "sunlight", "boleh"]
+  },
+  {
+    "pertanyaan": "Isi angin ban nitrogen?",
+    "jawaban": "Nitrogen lebih bagus karena bikin ban tidak cepat panas dan tekanan angin lebih awet (jarang kempes) dibanding angin biasa.",
+    "kata_kunci": ["isi angin", "nitrogen", "awet", "jarang kempes"]
+  },
+  {
+    "pertanyaan": "Rem terasa dalam banget?",
+    "jawaban": "Hati-hati, itu tanda kampas rem habis atau ada angin masuk di selang rem. Segera bawa ke bengkel sebelum rem blong.",
+    "kata_kunci": ["rem", "dalam", "blong", "gak", "pakem", "injakan"]
+  },
+  {
+    "pertanyaan": "Klakson suaranya sember?",
+    "jawaban": "Bisa karena kena air pas cuci motor, atau akinya mulai lemah. Coba tekan klakson berkali-kali, kalau makin lama makin keras berarti cuma kotor.",
+    "kata_kunci": ["klakson", "sember", "kecil", "suara", "aneh", "bunyi"]
+  },
+  {
+    "pertanyaan": "Standar samping turun mesin mati?",
+    "jawaban": "Itu fitur pengaman (Side Stand Switch) di motor matic modern. Biar kita gak lupa menaikkan standar saat mau jalan, karena bahaya kalau nyangkut.",
+    "kata_kunci": ["standar", "samping", "turun", "mati", "mesin", "fitur"]
+  },
+  {
+    "pertanyaan": "Cara hilangkan baret ringan?",
+    "jawaban": "Kalau baretnya halus (tidak terasa kuku), bisa dipoles pakai kompon atau pasta gigi. Gosok memutar pakai kain halus.",
+    "kata_kunci": ["baret ringan", "lecet", "kompon", "pasta gigi"]
+  },
+  {
+    "pertanyaan": "Kenapa motor bau bensin?",
+    "jawaban": "Cek tutup tangki bensin mungkin kurang rapat, atau ada selang bensin yang rembes/bocor. Bahaya api, segera cek!",
+    "kata_kunci": ["bau", "bensin", "menyengat", "bocor", "rembes", "bahaya"]
+  },
+  {
+    "pertanyaan": "Perlu gak goyangin motor pas isi bensin?",
+    "jawaban": "Gak perlu. Bensin itu benda cair, dia bakal otomatis ngisi ruang kosong di tangki tanpa perlu digoyang-goyang. Malah kalau kekencengan bisa tumpah.",
+    "kata_kunci": ["goyang", "isi", "bensin", "pom", "spbu", "mitos"]
+  },
+  {
+    "pertanyaan": "Boleh cuci motor pakai sabun colek?",
+    "jawaban": "Jangan keseringan. Sabun colek itu keras, lama-lama bisa bikin cat motor jadi kusam dan pudar. Mending pakai sampo khusus motor.",
+    "kata_kunci": ["cuci", "sabun", "colek", "deterjen", "kusam", "cat"]
+  },
+  {
+    "pertanyaan": "Kenapa helm jadi bau apek?",
+    "jawaban": "Biasanya karena dipakai pas rambut basah atau keringetan, terus langsung disimpan di tempat lembap. Coba jemur busa helm atau pakai parfum khusus helm.",
+    "kata_kunci": ["helm", "bau", "apek", "keringat", "cuci", "wangi"]
+  },
+  {
+    "pertanyaan": "Ban diisi nitrogen lebih bagus?",
+    "jawaban": "Iya, nitrogen lebih stabil, gak gampang panas, dan tekanan anginnya lebih awet (jarang kempes) dibanding angin biasa. Motor jadi lebih enak dibawa.",
+    "kata_kunci": ["nitrogen", "stabil", "panas", "ban", "enak dibawa"]
+  },
+  {
+    "pertanyaan": "Motor jarang dipakai, aki bakal soak?",
+    "jawaban": "Betul. Kalau motor didiemin lama, aki bakal kehilangan strum sendiri. Minimal panasin motor 2-3 hari sekali biar aki terisi lagi.",
+    "kata_kunci": ["jarang", "pakai", "aki", "soak", "mati", "lama", "diam"]
+  },
+  {
+    "pertanyaan": "Bensin basi itu apa?",
+    "jawaban": "Kalau motor ditinggal berbulan-bulan gak dinyalain, bensin di tangki bisa 'basi' (kualitasnya turun dan mengendap). Bisa bikin saluran bensin mampet.",
+    "kata_kunci": ["bensin", "basi", "lama", "endap", "rusak", "mogok"]
+  },
+  {
+    "pertanyaan": "Kenapa motor matic bunyi 'ngorok'?",
+    "jawaban": "Bunyi 'ngorok' di bagian mesin matic biasanya karena kipas radiator kotor atau ada masalah di bagian kipas magnetnya. Cek pas servis.",
+    "kata_kunci": ["ngorok", "bunyi", "berisik", "mesin", "matic", "kasar"]
+  },
+  {
+    "pertanyaan": "Semir ban bikin licin?",
+    "jawaban": "Hati-hati, semir ban yang kena bagian tapak ban (yang nyentuh aspal) emang bikin licin banget. Semir bagian dinding sampingnya aja ya.",
+    "kata_kunci": ["semir", "ban", "kilap", "licin", "bahaya", "pleset"]
+  },
+  {
+    "pertanyaan": "Kenapa lampu sein gak kedip?",
+    "jawaban": "Kalau lampu sein nyala tapi diam (gak kedip), biasanya alat bernama 'flasher' sudah rusak, atau salah satu bohlam sein ada yang putus.",
+    "kata_kunci": ["sein", "riting", "gak", "kedip", "diam", "nyala", "rusak"]
+  },
+  {
+    "pertanyaan": "Boleh gak isi air radiator pakai air AC?",
+    "jawaban": "Boleh buat darurat karena air AC itu murni (gak bikin karat). Tapi untuk harian, tetap paling bagus pakai Coolant khusus radiator.",
+    "kata_kunci": ["air", "ac", "radiator", "coolant", "boleh", "tambah"]
+  },
+  {
+    "pertanyaan": "Kenapa motor berat banget didorong?",
+    "jawaban": "Cek ban dulu, kempes gak? Kalau ban aman, bisa jadi rem cakramnya macet (seret) atau rantai/gear sudah karatan parah.",
+    "kata_kunci": ["berat", "dorong", "macet", "seret", "ban", "rem"]
+  },
+  {
+    "pertanyaan": "Fungsi lampu jauh buat apa?",
+    "jawaban": "Lampu jauh (dim) dipakai kalau jalanan gelap banget dan sepi. Jangan dipakai kalau ada orang di depan, kasihan silau.",
+    "kata_kunci": ["lampu", "jauh", "dim", "silau", "kapan", "pakai"]
+  },
+  {
+    "pertanyaan": "Helm jatuh, masih aman gak?",
+    "jawaban": "Kalau jatuhnya keras (misal dari atas motor ke aspal), gabus di dalam helm mungkin sudah retak walau luarnya mulus. Sebaiknya ganti demi keamanan.",
+    "kata_kunci": ["helm", "jatuh", "rusak", "aman", "ganti", "retak"]
+  },
+  {
+    "pertanyaan": "Kenapa bensin di spidometer kedip-kedip?",
+    "jawaban": "Itu tandanya bensin sudah sekarat (tinggal sedikit banget, biasanya sisa 1 literan). Segera cari pom bensin terdekat!",
+    "kata_kunci": ["bensin", "kedip", "indikator", "habis", "res", "e"]
+  },
+  {
+    "pertanyaan": "Motor kena hujan harus dibilas?",
+    "jawaban": "Iya, sebaiknya dibilas air bersih. Air hujan itu asam dan jahat, bisa bikin rantai karatan dan body motor cepat kusam.",
+    "kata_kunci": ["hujan", "bilas", "cuci", "karat", "kusam", "siram"]
+  },
+  {
+    "pertanyaan": "Kunci stang arah kanan atau kiri?",
+    "jawaban": "Kebanyakan motor sekarang bisa kunci stang hadap kanan. Ini lebih aman karena bikin lubang kunci lebih susah dijangkau maling.",
+    "kata_kunci": ["kunci", "stang", "kanan", "kiri", "aman", "maling"]
+  },
+  {
+    "pertanyaan": "Apa itu blind spot?",
+    "jawaban": "Blind spot adalah area yang tidak terlihat di spion. Saat belok atau nyalip, lakukan head check agar aman.",
+    "kata_kunci": ["blind spot", "titik buta", "spion", "head check", "aman"]
+  },
+  {
+    "pertanyaan": "Kenapa motor matic ada selang kecil di bawah?",
+    "jawaban": "Itu selang pembuangan dari filter udara. Kalau di dalamnya kelihatan ada air atau oli, copot sumbatnya dan buang isinya.",
+    "kata_kunci": ["selang", "bawah", "transparan","pembuangan", "air", "cvt"]
+  },
+  {
+    "pertanyaan": "Ganti oli gardan telat, bahaya gak?",
+    "jawaban": "Bahaya. Kalau oli gardan lama gak diganti, gigi rasio di roda belakang bisa aus. Nanti muncul suara dengung 'ngiung-ngiung' yang berisik.",
+    "kata_kunci": ["telat", "oli", "gardan", "dengung", "ngiung", "rusak"]
+  },
+  {
+    "pertanyaan": "Boleh gak bonceng anak di depan?",
+    "jawaban": "Sebenarnya bahaya. Anak bisa kena angin langsung, debu, dan kalau ngerem mendadak bisa terbentur stang. Lebih aman di belakang pakai sabuk bonceng.",
+    "kata_kunci": ["bonceng", "anak", "depan", "bahaya", "boleh", "aman"]
+  },
+  {
+    "pertanyaan": "Standar samping mesin mati?",
+    "jawaban": "Itu fitur keamanan (Side Stand Switch). Biar kita gak lupa naikin standar pas mau jalan. Kalau lupa, standar bisa nyangkut di aspal dan bikin jatuh.",
+    "kata_kunci": ["side stand switch", "standar samping", "mesin mati", "fitur keamanan"]
+  },
+  {
+    "pertanyaan": "Kenapa knalpot keluar asap putih pas pagi?",
+    "jawaban": "Kalau cuma sebentar pas dipanasin pagi-pagi, itu normal kok. Itu cuma uap air (embun) yang ada di dalam knalpot, bukan kerusakan mesin.",
+    "kata_kunci": ["asap putih", "knalpot", "pagi", "normal", "embun"]
+  },
+  {
+    "pertanyaan": "Spion kendor cara benerinnya?",
+    "jawaban": "Biasanya ada mur di pangkal spion. Buka karet penutupnya, terus kencangkan mur itu pakai kunci pas (biasanya ukuran 14).",
+    "kata_kunci": ["spion kendor", "mur", "benerin", "kencang", "kunci pas"]
+  },
+  {
+    "pertanyaan": "Perlu gak pasang alarm motor?",
+    "jawaban": "Sangat disarankan buat keamanan tambahan. Maling biasanya mikir dua kali kalau motor ada alarmnya. Atau minimal pasang gembok cakram.",
+    "kata_kunci": ["alarm", "kunci", "ganda", "aman", "maling", "gembok"]
+  },
+  {
+    "pertanyaan": "Isi bensin penuh banget bahaya gak?",
+    "jawaban": "Jangan sampai luber keluar. Bensin butuh ruang buat uap. Isi secukupnya sampai batas leher tangki saja (besi pembatas di lubang tangki).",
+    "kata_kunci": ["isi", "bensin", "penuh", "full", "tank", "luber"]
+  }
+
+]

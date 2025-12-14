@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutEmptyState"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:visibility="gone" > <ImageView
+    android:id="@+id/imgEmptyState"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:src="@drawable/ic_add"
+    android:alpha="0.3"
+    app:tint="@color/text_secondary"/> <TextView
+    android:id="@+id/tvEmptyTitle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Belum ada data"
+    android:textColor="@color/text_primary"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:layout_marginTop="16dp"
+    android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/tvEmptyMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data Anda akan muncul di sini setelah ditambahkan."
+        android:textColor="@color/text_secondary"
+        android:textSize="14sp"
+        android:layout_marginTop="8dp"
+        android:textAlignment="center"/>
+
+</LinearLayout>

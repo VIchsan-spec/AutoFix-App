@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="accent_gold">#CC9A41</color>
+    <color name="accent_gold_darker">#B88A3A</color>
+
+    <color name="background_primary">#F5F5F5</color> <color name="background_secondary">#FFFFFF</color> <color name="text_primary">#1C1C1E</color> <color name="text_secondary">#6E6E73</color> </resources>

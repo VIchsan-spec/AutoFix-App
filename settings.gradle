@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://jitpack.io' } // <-- TAMBAHKAN INI
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' } // <-- DAN TAMBAHKAN INI
+    }
+}
+
+rootProject.name = "Nama Proyek Anda" // Sesuaikan dengan nama proyek Anda
+include ':app'
